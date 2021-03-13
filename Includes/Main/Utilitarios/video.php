@@ -1,7 +1,13 @@
 <div class="sticky-menu">
     <div class="info-left">
         <div>Siga-nos</div>
-        <div class="middle-line"></div><a href="#" target="_blank" class="vertical-link"><i class="fab fa-facebook-f"></i></a><a href="#" target="_blank" class="vertical-link"><i class="fab fa-instagram"></i></a><a href="#" target="_blank" class="vertical-link"><i class="fab fa-whatsapp"></i></i></a>
+        <div class="middle-line"></div>
+        <a href="#" target="_blank" class="vertical-link">
+            <i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/baianeagencia/" target="_blank" class="vertical-link">
+                <i class="fab fa-instagram"></i></a>
+                <a href="#" target="_blank" class="vertical-link">
+                    <i class="fab fa-whatsapp"></i></i></a>
     </div>
     <div class="info-right">
         <div>Salvador - BA</div>

@@ -11,7 +11,7 @@
 				<div class="top">
 					<div class="footer-title">Entre em contato</div>
 					<div><a href="mailto:baianeagencia@gmail.com?subject=Olá%20Baianê%20">baianeagencia@gmail.com</a></div>
-					<div><a href="tel:71 98395-4205">71 98395-4205</a></div>
+					<div><a href="tel:(71) 98395-4205">(71) 9 8395-4205</a></div>
 				</div>
 				<div class="bottom">
 					<div class="footer-title">Navegação</div>
@@ -25,7 +25,7 @@
 	</div>
 </div>
 <div class="creditos">
-	<p>© COPYRIGHT - Todos os direitos reservados - 2021</p>
+	<p>© COPYRIGHT - Todos os direitos reservados - Baianê Agência - CNPJ 40.189.502/0001-27 - 2021.</p>
 </div>
 
 
