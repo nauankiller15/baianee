@@ -23,12 +23,8 @@
         </video></div>
 </div>
 <div class="main-links"><a href="/about" class="link w-inline-block">
-                <div>Topico 1</div>
-                <div class="link-underline" style="width: 0%;"></div>
-            </a><a data-w-id="646f259f-093c-cbaf-b725-c62cb30d47f9" href="/services" class="link w-inline-block">
-                <div>Topico 2</div>
-                <div class="link-underline" style="width: 0%; height: 2px;"></div>
-            </a><a data-w-id="0c75925d-9fb5-9723-491b-be8b7536dae5" href="/contact-us" class="link last w-inline-block">
-                <div>Topico 3</div>
-                <div class="link-underline" style="width: 0%; height: 2px;"></div>
-            </a></div>
+        <div>Topico 1</div>
+        <div class="link-underline" style="width: 0%;"></div>
+    </a><a data-w-id="646f259f-093c-cbaf-b725-c62cb30d47f9" href="/services" class="link w-inline-block">
+        <div>Topico 2</div>
+    </a></div>

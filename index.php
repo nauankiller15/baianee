@@ -12,6 +12,7 @@
 <body>
     <?php include("Includes/Main/menu.php"); ?>
     <?php include("Includes/Main/Utilitarios/video.php"); ?>
+    <?php include("Includes/Main/outros.php"); ?>
 </body>
 <?php include("Includes/Main/footer.php"); ?>
 

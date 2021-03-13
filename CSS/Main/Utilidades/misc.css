@@ -2205,12 +2205,6 @@ blockquote {
     margin-top: 6px
 }
 
-.menu-text,
-.middle-line,
-.vertical-link {
-    margin-left: 15px
-}
-
 .info-left,
 .info-right {
     position: absolute;
@@ -2266,12 +2260,6 @@ blockquote {
 .vertical-link:hover {
     color: var(--azul);
     transform: translate(0px, -2px);
-}
-
-.middle-line {
-    width: 16px;
-    height: 3px;
-    background-color: var(--border-color-footer);
 }
 
 .info-right {
@@ -2466,7 +2454,7 @@ blockquote {
 }
 
 .section-steps {
-    background-image: url(https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e1457b4775c4991701c9147_Section-Shapes-Top.png), url(https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e1458529314cce006ac936a_Section-Shapes-Middle.png);
+    background-image: url(https://1.bp.blogspot.com/-O-fdclb9NeE/YE0WA00m5TI/AAAAAAAAG1M/c3xV_ee5lwMxaPoJVvyxni7ChVTSwAWaACLcBGAsYHQ/s0/arestas%2Be%2Bshapes.png), url(https://1.bp.blogspot.com/-4Vz6lYao22M/YE0jaytvt8I/AAAAAAAAG1c/WS9HFbV_6bwB4K1m6J2OYunu_u0ShC8JgCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes.png);
     background-position: 100% 0, 0 60%;
     background-size: auto, auto;
     background-repeat: no-repeat, no-repeat
@@ -2823,21 +2811,6 @@ blockquote {
 
 .yellow-footer-link:hover {
     color: #fff
-}
-
-.footer {
-    background-color: #131313
-}
-
-.footer-title {
-    margin-bottom: 30px;
-    font-family: Heebo, sans-serif;
-    color: #fbbb2e;
-    font-size: 16px;
-    line-height: 36px;
-    font-weight: 900;
-    letter-spacing: 1px;
-    text-transform: uppercase
 }
 
 .bottom {
@@ -3480,9 +3453,6 @@ blockquote {
     }
     .link.gray {
         margin-right: 0
-    }
-    .link-underline {
-        width: 100%
     }
     .banner-content-half {
         width: 100%;

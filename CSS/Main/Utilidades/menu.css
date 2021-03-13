@@ -1,6 +1,6 @@
 .link {
     margin-right: 50px;
-    box-shadow: inset 0 -2px 0 0 #707070;
+    box-shadow: inset 0 -2px 0 0 var(--borda-menu2);
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
@@ -21,6 +21,18 @@ h1 {
     position: absolute;
 }
 
+.menu-text,
+.middle-line,
+.vertical-link {
+    margin-left: 15px
+}
+
+.middle-line {
+    width: 16px;
+    height: 3px;
+    background-color: var(--borda-menu2);
+}
+
 .w-inline-block {
     max-width: 100%;
     display: inline-block;
@@ -38,24 +50,18 @@ h1 {
 
 .link {
     margin-right: 50px;
-    box-shadow: inset 0 -2px 0 0 var(--border-color-footer);
+    box-shadow: inset 0 -2px 0 0 var(---borda-menu2);
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
     cursor: pointer;
     transition: 0.4s;
+    border-bottom: 2px solid var(--azul);
 }
 
 .link:hover {
     color: var(--azul);
     transform: translate(0px, -7px);
-}
-
-.link-underline {
-    width: 12px;
-    height: 2px;
-    margin-top: 5px;
-    background-color: var(--azul);
 }
 
 .logo {

@@ -1,3 +1,18 @@
+.footer {
+    background-color: #131313
+}
+
+.footer-title {
+    margin-bottom: 30px;
+    font-family: Heebo, sans-serif;
+    color: var(--cor-titulo-footer);
+    font-size: 16px;
+    line-height: 36px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-transform: uppercase
+}
+
 .creditos {
     border-top: 1px solid var(--border-color-footer);
     font-size: 14px;

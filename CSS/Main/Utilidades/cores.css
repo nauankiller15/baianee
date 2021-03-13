@@ -8,15 +8,17 @@
     /* menu */
     --cor-menu: #fafafa;
     --cor-menu2: #000000;
-    --cor-borda-menu: #fafafa;
-    --cor-background-menu: #fafafa;
+    --cor-borda-menu: #00aeae;
+    --cor-background-menu: #00aeae;
+    --borda-menu2: #00aeae;
     /*  */
     /* footer */
+    --cor-titulo-footer: #00aeae;
     --cor-texto-footer: #fcfcfc;
     --creditos: #131313;
     --border-color-footer: #162b2d;
     /*  */
-    --azul: #2e9ffb;
+    --azul: #00aeae;
 }
 
 .azul {

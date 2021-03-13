@@ -7,7 +7,6 @@
                   <li data-item='Inicio'>Inicio</li>
                   <li data-item='Sobre'>Sobre</li>
                   <li data-item='Time'>Time</li>
-                  <li data-item='Videos'>Videos</li>
                   <s class="consulta" href='#'><span>Contato</span></s>
               </ul>
           </nav>
