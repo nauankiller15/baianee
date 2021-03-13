@@ -45,3 +45,7 @@ a {
     color: #fff;
     text-decoration: none;
 }
+
+.limite-size {
+    overflow: hidden;
+}

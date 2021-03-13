@@ -1,18 +1,6 @@
-/* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
-var prevScrollpos = window.pageYOffset;
-window.onscroll = function() {
-    var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos > currentScrollPos) {
-        document.getElementById("menu").style.top = "0";
-        document.getElementById("menu").style.backgroundColor = "#00000054";
-        document.getElementById("menu").style.height = "98px";
-
-
-    } else {
-        document.getElementById("menu").style.top = "0";
-        document.getElementById("menu").style.backgroundColor = "#00000054";
-        document.getElementById("menu").style.height = "98px";
-
-    }
-    prevScrollpos = currentScrollPos;
-}
+$(function() {
+    $(document).scroll(function() {
+        var $nav = $(".menu");
+        $nav.toggleClass('menu-back', $(this).scrollTop() > $nav.height());
+    });
+});

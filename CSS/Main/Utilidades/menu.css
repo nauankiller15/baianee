@@ -36,15 +36,17 @@ h1 {
 
 .link {
     margin-right: 50px;
-    box-shadow: inset 0 -2px 0 0 #707070;
+    box-shadow: inset 0 -2px 0 0 var(--border-color-footer);
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
     cursor: pointer;
+    transition: 0.4s;
 }
 
 .link:hover {
     color: var(--azul);
+    transform: translate(0px, -4px);
 }
 
 .link-underline {
@@ -72,16 +74,22 @@ h1 {
 /*  */
 
 .menu {
-    position: fixed;
+    position: absolute;
     top: 0;
     right: 0;
     height: 98px;
     width: 100%;
     z-index: 1000;
     transition: 0.4s;
-    background: linear-gradient(#0000009e, transparent);
+    background: linear-gradient(#0000006b, transparent);
     font-family: Heebo;
     animation: positMenu 1.9s ease-in-out;
+}
+
+.menu-back {
+    transition: 0.5s;
+    background: #00000059;
+    position: fixed;
 }
 
 .position {
@@ -146,10 +154,10 @@ nav .menuItems li:hover::before {
 
 .consulta {
     font-weight: bold;
-    margin: 17px 10px 25px 9px;
+    margin: 21px 10px 19px 9px;
     color: var(--cor-menu);
     border: 2px solid var(--cor-borda-menu);
-    padding: 15px 28px;
+    padding: 13px 33px;
     display: inline-block;
     position: relative;
     -webkit-transition: all 0.5s ease;
