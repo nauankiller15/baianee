@@ -22,9 +22,9 @@
             <source src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e144b86a23876981d914d1e_Agency-transcode.webm" data-wf-ignore="true">
         </video></div>
 </div>
-<div class="main-links"><a href="/about" class="link w-inline-block">
+<div class="main-links"><a href="#Depoimentos" class="link w-inline-block">
         <div>Depoimentos</div>
         <div class="link-underline" style="width: 0%;"></div>
-    </a><a data-w-id="646f259f-093c-cbaf-b725-c62cb30d47f9" href="/services" class="link w-inline-block">
+    </a><a data-w-id="646f259f-093c-cbaf-b725-c62cb30d47f9" href="#Servicos" class="link w-inline-block">
         <div>Serviços</div>
     </a></div>

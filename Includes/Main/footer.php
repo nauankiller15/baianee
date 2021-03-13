@@ -4,7 +4,7 @@
 			<div data-w-id="24f6793a-b21c-33f7-a18f-14e8f200aedf" class="content-half" style="opacity: 1;">
 				<a href="/" aria-current="page" class="footer-logo w-inline-block w--current">
 					<img src="https://1.bp.blogspot.com/-Vnl1pnrUrvM/YEv9fKIT1yI/AAAAAAAAG0w/v4BSbqbziZIeeOLjQPZ4jUvhmSce9-lOQCLcBGAsYHQ/s0/baiane-site-logo.png" alt=""></a>
-				<h6 class="headline-8">A equipe Baianê estará sempre disposta para você.</h6>
+				<h6 class="headline-8">A equipe Baianê está sempre disposta para você.</h6>
 
 			</div>
 			<div data-w-id="24f6793a-b21c-33f7-a18f-14e8f200aeeb" class="content-half c-footer" style="opacity: 1;">
