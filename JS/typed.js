@@ -6,7 +6,7 @@
 
  $(function() {
      typed.typed({
-         strings: ["Equipe Baianê.", "Estratégia", "Foco", "Desenvolvimento", "Venha até nós"],
+         strings: ["Equipe Baianê.", "Estratégia", "Criatividade", "Desenvolvimento", "Venha até nós"],
          typeSpeed: 105,
          loop: true,
      });
