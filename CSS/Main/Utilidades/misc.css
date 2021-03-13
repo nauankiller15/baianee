@@ -2103,8 +2103,8 @@ p {
     font-family: Heebo, sans-serif;
     color: #bbb;
     font-size: 16px;
-    line-height: 33px;
-    font-weight: 300
+    line-height: 27px;
+    font-weight: 300;
 }
 
 a {
@@ -2358,7 +2358,7 @@ blockquote {
 
 .step {
     margin-right: 60px;
-    margin-bottom: 200px
+    margin-bottom: 25px
 }
 
 .step.last {
@@ -2442,10 +2442,10 @@ blockquote {
     margin-bottom: 40px;
     font-family: Heebo, sans-serif;
     color: #fff;
-    font-size: 30px;
-    line-height: 50px;
+    font-size: 40px;
+    line-height: 9px;
     font-weight: 400;
-    letter-spacing: .5px
+    letter-spacing: .5px;
 }
 
 .headline-7.no-margin-bottom {
@@ -2695,7 +2695,7 @@ blockquote {
     margin-right: auto;
     margin-left: auto;
     padding-top: 200px;
-    padding-bottom: 200px;
+    padding-bottom: 55px;
     grid-row-gap: 0
 }
 

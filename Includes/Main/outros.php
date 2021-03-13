@@ -11,29 +11,50 @@
         </div>
         <div class="content-half">
             <div class="step" style="opacity: 1;">
-                <div class="steps-icon"><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e146f0306a36135e7049583_Step%20Icon%2001.svg" height="70" alt=""></div>
-                <div class="headline-7">01 Explore</div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                <div class="steps-icon"><img src="https://1.bp.blogspot.com/-ava_qP119Gc/YE1GPn2g1JI/AAAAAAAAG2I/iax8QLR-H3wGtTI1ujAOz92QzMIEFAoZwCLcBGAsYHQ/s320/laptop.png" height="70" alt=""></div>
+                <div class="headline-7">Gestor de Tráfego</div>
+                <p>Tráfego pago se refere aos visitantes que chegam até um site, 
+                    loja ou página por meio de anúncios publicitários em plataformas específicas. ... 
+                    Com isso, é preciso usar outras estratégias de marketing digital para voltar a aumentar o número de visitantes ao site em questão.</p>
             </div>
             <div class="step" style="opacity: 1;">
-                <div class="steps-icon"><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e146f0306a3614110049581_Step%20Icon%2002.svg" height="60" alt=""></div>
-                <div class="headline-7">02 Strategizing</div>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                <div class="steps-icon"><img src="https://1.bp.blogspot.com/-By1fRF1MNzE/YE1GQXnjNwI/AAAAAAAAG2M/5jrYzYgjGj0jEOGjgck7cXUXGdFzouSQwCLcBGAsYHQ/s320/social-media.png" height="60" alt=""></div>
+                <div class="headline-7">Social Media</div>
+                <p>
+                O social media é responsável por atualizar, 
+                monitorar e gerar conteúdo para as páginas oficiais de uma marca ou empresa nas redes sociais. 
+                Planejamento estratégico e análise de resultados são também funções atribuídas ao social media
+                </p>
             </div>
             <div class="step" style="opacity: 1;">
-                <div class="steps-icon"><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e146f03eb497c63f69a7cd8_Step%20Icon%2003.svg" height="66" alt=""></div>
-                <div class="headline-7">03 Complete</div>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                <div class="steps-icon"><img src="https://1.bp.blogspot.com/-STnq3ISyBzY/YE1GPskQw3I/AAAAAAAAG2E/DTYncXNNPaw2ee0vYOWQm3D1R5P09BpDwCLcBGAsYHQ/s320/lamp.png" height="66" alt=""></div>
+                <div class="headline-7">Mentoria</div>
+                <p>A mentoria serve para ajudar profissionais na construção e 
+                    direcionamento da carreira. ... O objetivo da mentoria é fornecer conhecimentos 
+                    e troca de ideias entre o mentor e o mentorado, de modo que o desenvolvimento 
+                    profissional dele seja estimulado. 
+                    Durante o processo, o mentor atua como fonte de inspiração e referência.</p>
             </div>
             <div class="step" style="opacity: 1;">
-                <div class="steps-icon"><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e146f0306a3617653049582_Step%20Icon%2004.svg" height="69" alt=""></div>
-                <div class="headline-7">04 Startup</div>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                <div class="steps-icon"><img src="https://1.bp.blogspot.com/-oS7Jf4fZu5Y/YE1GQyjcj8I/AAAAAAAAG2Q/A-Ind1xQ31EH68H8z_OuD83BgGP3Y30dQCLcBGAsYHQ/s320/video.png" height="69" alt=""></div>
+                <div class="headline-7">Videos Institucionais</div>
+                <p>O propósito do Vídeo Institucional é, no fim das contas, 
+                    criar uma boa imagem e contar uma história a respeito da sua empresa, 
+                    produto ou serviço, tendo como foco clientes, parceiros, investidores, doadores, 
+                    público interno, enfim, os públicos que forem do seu interesse.</p>
             </div>
             <div class="step last" style="opacity: 1;">
-                <div class="steps-icon"><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e146f039314cc2c7fad1d74_Step%20Icon%2005.svg" height="56" alt=""></div>
-                <div class="headline-7">05 Upgrade</div>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                <div class="steps-icon"><img src="https://1.bp.blogspot.com/-smpmHcEB5fA/YE1GPnzOKqI/AAAAAAAAG2A/lR9-TApToBQ278Dpg4X_hyYisFjbDFH8ACLcBGAsYHQ/s320/camera.png" height="56" alt=""></div>
+                <div class="headline-7">Fotografia</div>
+                <p> A fotografia é mais do que um registro é um bem precioso quando está 
+                    relacionado a um fato histórico. Nos ajuda a entender o mundo em diversas óticas.</p>
+            </div>
+            <div class="step last" style="opacity: 1;">
+                <div class="steps-icon"><img src="https://1.bp.blogspot.com/-u2CluGvT7KY/YE1GRRxDnAI/AAAAAAAAG2U/au6scZLvPE86oGGpbnyJ-TTL8FMg-MTPQCLcBGAsYHQ/s320/web-design.png" height="56" alt=""></div>
+                <div class="headline-7">Criação de Sites</div>
+                <p>Além de credibilidade, um site é a principal forma para se 
+                    estabelecer um bom relacionamento com o consumidor, 
+                    pois lá é que está contido todo o DNA do seu negócio.</p>
             </div>
         </div>
     </div>
