@@ -10,8 +10,8 @@
 			<div data-w-id="24f6793a-b21c-33f7-a18f-14e8f200aeeb" class="content-half c-footer" style="opacity: 1;">
 				<div class="top">
 					<div class="footer-title">Entre em contato</div>
-					<div><a href="mailto:hello@alpha.com?subject=You've%20got%20mail!">baiane@baiane.com</a></div>
-					<div><a href="tel:+409668998">+55 (71) 9 0000-0000</a></div>
+					<div><a href="mailto:baianeagencia@gmail.com?subject=Olá%20Baianê%20">baianeagencia@gmail.com</a></div>
+					<div><a href="tel:+409668998">+55 71 98395-4205</a></div>
 				</div>
 				<div class="bottom">
 					<div class="footer-title">Navegação</div>
@@ -25,7 +25,7 @@
 	</div>
 </div>
 <div class="creditos">
-	<p>© COPYRIGHT - Todos os direitos reservados - 2021. Baianêe.</p>
+	<p>© COPYRIGHT - Todos os direitos reservados - 2021. Baianê.</p>
 </div>
 
 
