@@ -1,0 +1,26 @@
+.creditos {
+    border-top: 1px solid var(--border-color-footer);
+    font-size: 14px;
+    width: 100%;
+    line-height: 60px;
+    font-size: 14px;
+    background-color: var(--creditos);
+    color: var(--cor-texto-footer);
+    text-align: center;
+    z-index: 100;
+    font-weight: 500;
+}
+
+.creditos p {
+    padding: 10px;
+}
+
+.creditos a {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid;
+}
+
+.creditos a:hover {
+    border-bottom: 1px transparent;
+}

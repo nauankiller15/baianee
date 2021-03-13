@@ -1,0 +1,21 @@
+/* REGRAS DE CORES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700&display=swap");
+:root {
+    --body: #191a1a;
+    --cor-texto: #707070;
+    --cor-menu: #fafafa;
+    --cor-borda-menu: #fafafa;
+    --cor-texto-footer: #fcfcfc;
+    --creditos: #131313;
+    --border-color-footer: #162b2d;
+    --azul: #2e9ffb;
+}
+
+.azul {
+    color: var(--azul);
+}
+
+
+/*  */

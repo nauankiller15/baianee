@@ -1,0 +1,191 @@
+.link {
+    margin-right: 50px;
+    box-shadow: inset 0 -2px 0 0 #707070;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+}
+
+h1 {
+    -webkit-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    transform-origin: 0 0;
+    font-size: 130px;
+    line-height: 150px;
+    letter-spacing: -.5px;
+}
+
+.main-links {
+    margin-top: 70px;
+}
+
+.w-inline-block {
+    max-width: 100%;
+    display: inline-block;
+}
+
+.banner-content-half {
+    width: 50%;
+}
+
+.container-banner {
+    z-index: 10;
+    margin-right: 13vw;
+    margin-left: 13vw;
+}
+
+.link {
+    margin-right: 50px;
+    box-shadow: inset 0 -2px 0 0 #707070;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.link:hover {
+    color: var(--azul);
+}
+
+.link-underline {
+    width: 12px;
+    height: 2px;
+    margin-top: 5px;
+    background-color: var(--azul);
+}
+
+.logo {
+    position: absolute;
+    background: url(https://1.bp.blogspot.com/-Vnl1pnrUrvM/YEv9fKIT1yI/AAAAAAAAG0w/v4BSbqbziZIeeOLjQPZ4jUvhmSce9-lOQCLcBGAsYHQ/s0/baiane-site-logo.png) no-repeat;
+    padding: 67px 186px 10px 10px;
+    cursor: pointer;
+    margin-top: 11px;
+    margin-left: -48px;
+    transition: 0.3s;
+}
+
+.logo:hover {
+    transform: translate(0px, -7px);
+}
+
+
+/*  */
+
+.menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 98px;
+    width: 100%;
+    z-index: 1000;
+    transition: 0.4s;
+    background-color: #00000054;
+    font-family: Heebo;
+}
+
+.position {
+    width: 77%;
+    margin: auto;
+}
+
+nav {
+    position: relative;
+    right: 0;
+}
+
+nav .menuItems {
+    position: absolute;
+    right: -40px;
+    list-style: none;
+    display: flex;
+    top: -6px;
+}
+
+nav .menuItems li {
+    font-weight: 500;
+    padding: 21px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 17px;
+    transition: all 0.2s ease-in-out;
+    position: relative;
+    cursor: pointer;
+    margin: 14px 4px 10px -10px;
+}
+
+nav .menuItems li::before {
+    content: attr(data-item);
+    transition: 0.2s;
+    color: #0563f0;
+    position: absolute;
+    top: 21px;
+    bottom: 0;
+    left: 21px;
+    right: 0;
+    width: 0;
+    overflow: hidden;
+    /* border: 2px solid #0563f0; */
+    cursor: pointer;
+}
+
+nav .menuItems li:hover::before {
+    width: 67%;
+    transition: all 0.5s ease-in-out;
+}
+
+.consulta span {
+    position: relative;
+    z-index: 5;
+    cursor: pointer;
+    top: 0px;
+}
+
+.consulta {
+    font-weight: bold;
+    margin: 17px 10px 25px 9px;
+    color: var(--cor-menu);
+    border: 2px solid var(--cor-borda-menu);
+    padding: 15px 28px;
+    display: inline-block;
+    position: relative;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.4s ease;
+    overflow: hidden;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.5s;
+    text-transform: uppercase;
+}
+
+.consulta:hover {
+    color: var(--cor-menu);
+    transform: translate(0px, -3px);
+}
+
+.consulta:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 1px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background: var(--azul);
+    -webkit-transition: -webkit-transform 0.2s ease;
+    transition: transform 0.4s ease;
+    z-index: 0;
+    opacity: 0;
+    cursor: pointer;
+    transition: 0.5s;
+    color: #fff;
+}
+
+.consulta:hover:before {
+    -webkit-transform: scaleX(200);
+    -ms-transform: scaleX(200);
+    transform: scaleX(200);
+    opacity: 1;
+    color: #fff;
+}

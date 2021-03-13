@@ -1,0 +1,47 @@
+/* Importando fonte */
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Junge&display=swap');
+
+/*  */
+
+
+/*  */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: var(--body);
+    font-family: Heebo, sans-serif;
+    color: var(--cor-texto);
+    font-size: 18px;
+    line-height: 38px;
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Heebo, ui-sans-serif;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
