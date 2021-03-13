@@ -79,8 +79,9 @@ h1 {
     width: 100%;
     z-index: 1000;
     transition: 0.4s;
-    background-color: #00000054;
+    background: linear-gradient(#0000009e, transparent);
     font-family: Heebo;
+    animation: positMenu 1.9s ease-in-out;
 }
 
 .position {
@@ -113,10 +114,13 @@ nav .menuItems li {
     margin: 14px 4px 10px -10px;
 }
 
+nav .menuItems li:hover {
+    transform: translate(0px, -4px);
+}
+
 nav .menuItems li::before {
     content: attr(data-item);
     transition: 0.2s;
-    color: #0563f0;
     position: absolute;
     top: 21px;
     bottom: 0;
@@ -124,7 +128,7 @@ nav .menuItems li::before {
     right: 0;
     width: 0;
     overflow: hidden;
-    /* border: 2px solid #0563f0; */
+    border-bottom: 2px solid var(--cor-borda-menu);
     cursor: pointer;
 }
 
@@ -159,7 +163,7 @@ nav .menuItems li:hover::before {
 }
 
 .consulta:hover {
-    color: var(--cor-menu);
+    color: var(--cor-menu2);
     transform: translate(0px, -3px);
 }
 
@@ -172,14 +176,13 @@ nav .menuItems li:hover::before {
     top: 0;
     bottom: 0;
     margin: auto;
-    background: var(--azul);
+    background: var(--cor-background-menu);
     -webkit-transition: -webkit-transform 0.2s ease;
     transition: transform 0.4s ease;
     z-index: 0;
     opacity: 0;
     cursor: pointer;
     transition: 0.5s;
-    color: #fff;
 }
 
 .consulta:hover:before {
@@ -187,5 +190,4 @@ nav .menuItems li:hover::before {
     -ms-transform: scaleX(200);
     transform: scaleX(200);
     opacity: 1;
-    color: #fff;
 }

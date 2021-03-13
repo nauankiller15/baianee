@@ -1,10 +1,14 @@
 <?php include("Includes/Main/head.php"); ?>
 
-  <!-- TELA DE CARREGAMENTO -->
-  <div class="loader-wrapper">
-        <div class="spinner">Baianê</div>
+<!-- TELA DE CARREGAMENTO -->
+<div class="loader-wrapper">
+    <div class="spinner">
+        <div class="double-bounce1"></div>
+        <div class="double-bounce2"></div>
     </div>
-    <!-- fim -->
+</div>
+<!-- fim -->
+
 <body>
     <?php include("Includes/Main/menu.php"); ?>
     <?php include("Includes/Main/Utilitarios/video.php"); ?>

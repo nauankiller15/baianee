@@ -2212,7 +2212,7 @@ blockquote {
 
 .info-left,
 .info-right {
-    position: fixed;
+    position: absolute;
     top: auto;
     z-index: 9999;
     grid-auto-columns: 1fr;

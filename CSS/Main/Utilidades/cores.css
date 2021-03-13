@@ -5,11 +5,17 @@
 :root {
     --body: #191a1a;
     --cor-texto: #707070;
+    /* menu */
     --cor-menu: #fafafa;
+    --cor-menu2: #000000;
     --cor-borda-menu: #fafafa;
+    --cor-background-menu: #fafafa;
+    /*  */
+    /* footer */
     --cor-texto-footer: #fcfcfc;
     --creditos: #131313;
     --border-color-footer: #162b2d;
+    /*  */
     --azul: #2e9ffb;
 }
 

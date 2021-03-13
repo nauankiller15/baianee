@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="CSS\Main\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\menu.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\anims.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\cores.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\backvideo.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\misc.css">

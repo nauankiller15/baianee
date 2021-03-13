@@ -1,43 +1,26 @@
+/* LOADER ANIMATOR */
+
 .spinner {
-    font-family: "Bahnschrift";
-    padding: 25px;
-    font-size: 35px;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
+    width: 40px;
+    height: 40px;
+    position: relative;
     margin: 100px auto;
-    -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
-    animation: sk-rotateplane 2.0s infinite ease-in-out;
 }
 
-@-webkit-keyframes sk-rotateplane {
-    0% {
-        -webkit-transform: perspective(120px)
-    }
-    50% {
-        -webkit-transform: perspective(120px) rotateY(180deg)
-    }
-    100% {
-        -webkit-transform: perspective(120px) rotateY(180deg) rotateX(180deg)
-    }
-}
-
-@keyframes sk-rotateplane {
-    0% {
-        transform: perspective(120px) rotateX(0deg) rotateY(0deg);
-        -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg)
-    }
-    25% {
-        transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
-        -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg)
-    }
-    50% {
-        transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
-        -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
-    }
-    100% {
-        transform: perspective(120px) rotateX(180.1deg) rotateY(0deg);
-        -webkit-transform: perspective(120px) rotateX(180.1deg) rotateY(-179.9deg)
-    }
+.double-bounce1,
+.double-bounce2 {
+    width: 100%;
+    height: 99%;
+    border-radius: 0;
+    padding: 110px;
+    background-color: #000;
+    background: url(https://1.bp.blogspot.com/-4VlxOqpvJBw/YEwXOgSCV5I/AAAAAAAAG08/Zz-WBs4ejfYBzkewlrpbD_6LjploWm8PACLcBGAsYHQ/s0/bb-loader.png) no-repeat;
+    position: absolute;
+    top: -30px;
+    left: -49px;
+    -webkit-animation: sk-bounce 3.5s infinite ease-in-out;
+    animation: sk-bounce 3.5s ease-in-out infinite, glow 1.2s infinite alternate, positloader 1.3s ease-in-out;
+    background-size: 56%;
 }
 
 .loader-wrapper {
