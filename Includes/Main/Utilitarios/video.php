@@ -23,8 +23,8 @@
         </video></div>
 </div>
 <div class="main-links"><a href="/about" class="link w-inline-block">
-        <div>Topico 1</div>
+        <div>Depoimentos</div>
         <div class="link-underline" style="width: 0%;"></div>
     </a><a data-w-id="646f259f-093c-cbaf-b725-c62cb30d47f9" href="/services" class="link w-inline-block">
-        <div>Topico 2</div>
+        <div>Serviços</div>
     </a></div>
