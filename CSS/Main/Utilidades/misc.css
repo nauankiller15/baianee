@@ -2265,7 +2265,7 @@ blockquote {
 
 .vertical-link:hover {
     color: var(--azul);
-    transform: translate(0px, -7px);
+    transform: translate(0px, -2px);
 }
 
 .middle-line {
