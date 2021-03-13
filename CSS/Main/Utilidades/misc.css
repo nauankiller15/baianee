@@ -2233,7 +2233,7 @@ blockquote {
 }
 
 .info-left {
-    left: 0;
+    left: -8px;
     right: auto;
     bottom: 200px;
     display: -webkit-box;
@@ -2249,24 +2249,28 @@ blockquote {
     grid-column-gap: 0;
     -ms-grid-rows: auto;
     grid-template-rows: auto;
-    -webkit-transform: rotate(-90deg);
+    -webkit-transform: rotate( -90deg);
     -ms-transform: rotate(-90deg);
     transform: rotate(-90deg);
     color: #fff;
 }
 
 .vertical-link {
-    -webkit-transition: color .3s ease;
-    transition: color .3s ease
+    -webkit-transition: 0.7s ease;
+    transition: 0.7s ease;
+    padding: 2px;
+    font-size: 24px;
+    transform: rotate(90deg);
 }
 
 .vertical-link:hover {
-    color: #fbbb2e
+    color: var(--azul);
+    transform: translate(0px, -7px);
 }
 
 .middle-line {
     width: 16px;
-    height: 1px;
+    height: 3px;
     background-color: var(--border-color-footer);
 }
 

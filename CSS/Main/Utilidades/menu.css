@@ -16,7 +16,9 @@ h1 {
 }
 
 .main-links {
-    margin-top: 70px;
+    top: 787px;
+    left: 120px;
+    position: absolute;
 }
 
 .w-inline-block {
@@ -46,7 +48,7 @@ h1 {
 
 .link:hover {
     color: var(--azul);
-    transform: translate(0px, -4px);
+    transform: translate(0px, -7px);
 }
 
 .link-underline {
@@ -83,7 +85,7 @@ h1 {
     transition: 0.4s;
     background: linear-gradient(#0000006b, transparent);
     font-family: Heebo;
-    animation: positMenu 1.9s ease-in-out;
+    animation: positMenu 1.3s ease-in-out;
 }
 
 .menu-back {
