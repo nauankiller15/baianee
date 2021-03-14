@@ -4,7 +4,7 @@
           </div>
           <nav>
               <ul id="menutop" class="menuItems">
-                  <li data-item='Inicio'>Inicio</li>
+                  <a href="index.php"><li data-item='Inicio'>Inicio</li></a>
                   <li data-item='Sobre'>Sobre</li>
                   <li data-item='Time'>Time</li>
                   <s class="consulta" href='#'><span>Contato</span></s>
