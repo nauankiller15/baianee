@@ -1,3 +1,10 @@
+.video-js {
+    min-width: 260px;
+    min-height: 460px;
+    background-color: #0000;
+}
+
+
 /*responsiv 3D gallery*/
 
 .responsiveGallery-container {
@@ -17,17 +24,17 @@
 
 .responsiveGallery-btn_prev {
     background: url('https://1.bp.blogspot.com/-cf0FBeWyBJ8/YEFKUEd1QVI/AAAAAAAAGwE/qvMwGNrq__MW0HaeyFbGJx-67vH_jTruACLcBGAsYHQ/s0/arrow-left.png') center center no-repeat;
-    left: 8%;
+    left: 5%;
 }
 
 .responsiveGallery-btn_next {
     background: url('https://1.bp.blogspot.com/-n10ufB7F4eU/YEFKUCHJasI/AAAAAAAAGwA/SfFZHzNzJBMxdFICKd0ze5P6Z-fQkRrBQCLcBGAsYHQ/s0/arrow-right.png') center center no-repeat;
-    right: 8%;
+    right: 0%;
 }
 
 .responsiveGallery-wrapper {
     position: relative;
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     padding-top: 25%;
     /*用padding撑开容器高度*/

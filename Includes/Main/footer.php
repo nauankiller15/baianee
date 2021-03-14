@@ -40,8 +40,7 @@
 <script src="JS/main.js"></script>
 <script src="JS/typed.js"></script>
 <script src="JS/responsiveGallery.js"></script>
-<script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script>
 
 <!-- Library -->
 <script type="text/javascript" src="Lib/modernizr.custom.js"></script>
