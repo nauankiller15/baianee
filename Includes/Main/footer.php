@@ -2,17 +2,17 @@
 	<div class="footer">
 		<div class="container-footer">
 			<div class="content-left-right">
-				<div data-w-id="24f6793a-b21c-33f7-a18f-14e8f200aedf" class="content-half" style="opacity: 1;">
+				<div class="content-half" style="opacity: 1;">
 					<a href="#" aria-current="page" class="footer-logo w-inline-block w--current">
 						<img src="https://1.bp.blogspot.com/-Vnl1pnrUrvM/YEv9fKIT1yI/AAAAAAAAG0w/v4BSbqbziZIeeOLjQPZ4jUvhmSce9-lOQCLcBGAsYHQ/s0/baiane-site-logo.png" alt=""></a>
 					<h6 class="headline-8">A equipe Baianê está sempre disposta para você.</h6>
 
 				</div>
-				<div data-w-id="24f6793a-b21c-33f7-a18f-14e8f200aeeb" class="content-half c-footer" style="opacity: 1;">
+				<div class="content-half c-footer">
 					<div class="top">
 						<div class="footer-title">Entre em contato</div>
-						<div><a href="mailto:baianeagencia@gmail.com?subject=Olá%20Baianê%20">baianeagencia@gmail.com</a></div>
-						<div><a href="tel:(71) 98395-4205">(71) 9 8395-4205</a></div>
+						<div><a href="mailto:baianeagencia@gmail.com?subject=Olá%20Baianê%20"><i style="margin-right:12px;" class="fas fa-envelope"></i>baianeagencia@gmail.com</a></div>
+						<div><a href="tel:(71) 98395-4205"><i style="margin-right:12px;" class="fas fa-phone-alt"></i>(71) 9 8395-4205</a></div>
 					</div>
 					<div class="bottom">
 						<div class="footer-title">Navegação</div>
@@ -20,7 +20,7 @@
 						<a href="#" class="footer-nav-link">Sobre</a>
 						<a href="#" class="footer-nav-link">Time</a>
 						<a href="#" class="footer-nav-link">Contato</a>
-						<a href="#" class="footer-nav-link">Topo</a>
+						<a href="#" class="footer-nav-link">Topo<i style="margin-left:10px;" class="fas fa-chevron-up"></i></a>
 					</div>
 				</div>
 			</div>

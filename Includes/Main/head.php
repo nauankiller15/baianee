@@ -6,12 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="CSS\Main\styleindex.css">
-    <link rel="stylesheet" type="text/css" href="CSS\Main\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\menu.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\anims.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\cores.css">
-    <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\backvideo.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\loader.css">
     <!-- SWIPER -->
