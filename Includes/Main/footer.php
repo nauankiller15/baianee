@@ -16,7 +16,7 @@
 					</div>
 					<div class="bottom">
 						<div class="footer-title">Navegação</div>
-						<a href="../baianee/index.php" aria-current="page" class="footer-nav-link w--current">Inicio</a>
+						<a href="index.php" aria-current="page" class="footer-nav-link w--current">Inicio</a>
 						<a href="#" class="footer-nav-link">Sobre</a>
 						<a href="#" class="footer-nav-link">Time</a>
 						<a href="#" class="footer-nav-link">Contato</a>
