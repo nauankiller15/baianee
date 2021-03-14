@@ -2695,14 +2695,15 @@ blockquote {
     bottom: 0
 }
 
-.container-small {
+.container-small-grid {
+    display: -ms-grid;
+    display: grid;
     max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 100px;
+    padding-top: 90px;
     padding-bottom: 250px;
-    grid-row-gap: 0;
-    text-align: center;
+    grid-row-gap: 0
 }
 
 .awards-grid,
