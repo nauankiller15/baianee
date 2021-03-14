@@ -86,12 +86,12 @@ h1 {
     transition: 0.4s;
     background: linear-gradient(#0000006b, transparent);
     font-family: Heebo;
-    animation: positMenu 1.3s ease-in-out;
+    animation: positMenu 2.2s ease-in-out;
 }
 
 .menu-back {
     transition: 0.5s;
-    background: #00000059;
+    background: #00000096;
     position: fixed;
 }
 

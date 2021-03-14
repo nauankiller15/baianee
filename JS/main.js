@@ -15,6 +15,7 @@
 
 //<![CDATA[
 $(window).on('load', function() {
+        $(window).scrollTop(0);
         $('.loader-wrapper .spinner').fadeOut();
         $('.loader-wrapper').delay(950).fadeOut('slow');
         $('body').delay(950).css({ 'overflow': 'visible' });
@@ -39,7 +40,7 @@ $(document).ready(function() {
             // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
             $('html, body').animate({
                 scrollTop: $(hash).offset().top
-            }, 800, function() {
+            }, 500, function() {
 
                 // Add hash (#) to URL when done scrolling (default click behavior)
                 window.location.hash = hash;

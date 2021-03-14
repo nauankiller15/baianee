@@ -75,20 +75,11 @@
 }
 
 
-/* MENU DIREITO E EQUERDO ANIMAÇÃO */
+/* MENU CANTO DE BAIXO POSICOES*/
 
-@keyframes positRight {
+@keyframes positMenubottom {
     from {
-        transform: translateY(-920px);
-    }
-    to {
-        transform: translateY(0);
-    }
-}
-
-@keyframes positLeft {
-    from {
-        transform: translateY(-920px);
+        transform: translateY(220px);
     }
     to {
         transform: translateY(0);

@@ -2334,6 +2334,10 @@ blockquote {
     margin-left: auto
 }
 
+.content-half-sticky {
+    height: 50%;
+}
+
 .container-banner {
     z-index: 10;
     margin-right: 13vw;
