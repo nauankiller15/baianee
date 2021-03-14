@@ -27,7 +27,7 @@
 		</div>
 	</div>
 	<div class="creditos">
-		<p>© COPYRIGHT - Todos os direitos reservados - Baianê Agência - CNPJ 40.189.502/0001-27 - 2021</p>
+		<p>© COPYRIGHT - Todos os direitos reservados 2021 - Baianê Agência - CNPJ 40.189.502/0001-27.</p>
 	</div>
 </div>
 
