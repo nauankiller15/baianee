@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,8 +14,9 @@
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\backvideo.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\loader.css">
+    <link rel="icon" href="imagens/favicon.ico" type="image/ico">
 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    
+
     <title>#VemPraBaianê</title>
 </head>
