@@ -2290,7 +2290,7 @@ blockquote {
     position: relative
 }
 
-.container-depoimentos,
+.container-small,
 .container-small-grid {
     grid-auto-columns: 1fr;
     grid-column-gap: 60px;
@@ -2305,16 +2305,17 @@ blockquote {
     color: #bbb
 }
 
-.container-depoimentos {
+.container-small {
     max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
     padding-top: 100px;
+    padding-bottom: 100px;
     grid-row-gap: 0;
     text-align: center;
 }
 
-.container-depoimentos.left-text-align {
+.container-small.left-text-align {
     text-align: left
 }
 
@@ -3697,7 +3698,7 @@ blockquote {
         font-size: 56px;
         line-height: 76px
     }
-    .container-depoimentos {
+    .container-small {
         padding-top: 80px;
         padding-bottom: 80px
     }
