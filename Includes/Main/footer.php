@@ -1,5 +1,4 @@
-<div data-aos="fade-up"
-     data-aos-duration="1000">
+<div data-aos="fade-up" data-aos-duration="1000">
 	<div class="footer">
 		<div class="container-footer">
 			<div class="content-left-right">
@@ -40,10 +39,13 @@
 <script src="JS/menu.anim.js"></script>
 <script src="JS/main.js"></script>
 <script src="JS/typed.js"></script>
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="JS/testimonials.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 <!-- Library -->
 
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
 <script>
 	AOS.init();

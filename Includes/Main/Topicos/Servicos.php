@@ -68,13 +68,3 @@
     </div>
 </div>
 </div>
-<div data-aos="zoom-in-left" data-aos-duration="900">
-    <div id="Depoimentos" class="friends-section">
-        <div class="container-small">
-            <div data-aos="fade-up-left">
-                <h3 style="opacity: 1;" class="center-width">Depoimentos</h3>
-            </div>
-            <div class="w-layout-grid logos-grid" style="opacity: 0;"><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c5274eecbb64ba26bb_Logo%2001%402x.png" width="167.5" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c67ff1c630e94e34dd_Logo%2002%402x.png" width="135" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c6fa55484dec00abfc_Logo%2003%402x.png" width="133.5" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c69ba5cb072a43a4d5_Logo%2004%402x.png" width="108" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c6fa55486cb400abfd_Logo%2005%402x.png" width="116" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c6d6f791cde7a63d6b_Logo%2006%402x.png" width="151.5" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c67ff1c64a9d4e34de_Logo%2007%402x.png" width="130.5" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c6274eec917cba26bc_Logo%2008%402x.png" width="146" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c6fa5548372f00abff_Logo%2009%402x.png" width="81" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c6fa5548507600ac00_Logo%2010%402x.png" width="110.5" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c69ba5cb3c4143a4d7_Logo%2011%402x.png" width="130" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c7d6f7911744a63d6d_Logo%2012%402x.png" width="123" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c7fa55488cd500ac01_Logo%2013%402x.png" width="130.5" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c717a0cf5f4fd91942_Logo%2014%402x.png" width="139" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c7d6f79198bea63d6e_Logo%2015%402x.png" width="115" alt=""><img src="https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a0c7d6f79151efa63d6f_Logo%2016%402x.png" width="90.5" alt=""></div>
-        </div>
-    </div>
-</div>

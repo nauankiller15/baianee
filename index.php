@@ -11,8 +11,9 @@
 
 <body>
     <?php include("Includes/Main/menu.php"); ?>
-    <?php include("Includes/Main/Utilitarios/video.php"); ?>
-    <?php include("Includes/Main/outros.php"); ?>
+    <?php include("Includes/Main/Topicos/video.php"); ?>
+    <?php include("Includes/Main/Topicos/Servicos.php"); ?>
+    <?php include("Includes/Main/Topicos/Depoimentos.php"); ?>
 </body>
 <?php include("Includes/Main/footer.php"); ?>
 

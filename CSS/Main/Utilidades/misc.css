@@ -2100,6 +2100,8 @@ h6 {
 }
 
 p {
+    padding: 13px;
+    background: #101010;
     font-family: Heebo, sans-serif;
     color: #bbb;
     font-size: 16px;
