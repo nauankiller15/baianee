@@ -3,9 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" ontent="IE=edge,chrome=1">
+    <meta http-equiv="X-UA-Compatible" ontent="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="CSS\Main\responsivo.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\styleindex.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\menu.css">
