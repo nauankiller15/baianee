@@ -2310,7 +2310,7 @@ blockquote {
     margin-right: auto;
     margin-left: auto;
     padding-top: 100px;
-    padding-bottom: 250px;
+    padding-bottom: 230px;
     grid-row-gap: 0;
     text-align: center;
 }
@@ -2701,9 +2701,9 @@ blockquote {
     max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 90px;
-    padding-bottom: 250px;
-    grid-row-gap: 0
+    padding-top: 190px;
+    padding-bottom: 50px;
+    grid-row-gap: 0;
 }
 
 .awards-grid,
