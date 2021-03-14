@@ -2463,7 +2463,8 @@ blockquote {
     background-image: url(https://1.bp.blogspot.com/-O-fdclb9NeE/YE0WA00m5TI/AAAAAAAAG1M/c3xV_ee5lwMxaPoJVvyxni7ChVTSwAWaACLcBGAsYHQ/s0/arestas%2Be%2Bshapes.png), url(https://1.bp.blogspot.com/-4Vz6lYao22M/YE0jaytvt8I/AAAAAAAAG1c/WS9HFbV_6bwB4K1m6J2OYunu_u0ShC8JgCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes.png);
     background-position: 100% 0, 0 60%;
     background-size: auto, auto;
-    background-repeat: no-repeat, no-repeat
+    background-repeat: no-repeat, no-repeat;
+    overflow: hidden;
 }
 
 .steps-icon {
