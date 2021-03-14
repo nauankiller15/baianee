@@ -14,8 +14,7 @@
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\backvideo.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\loader.css">
-    <link rel="icon" href="imagens/favicon.ico" type="image/ico">
-
+    <link rel="icon" href="https://1.bp.blogspot.com/-okC-lrGYXew/YE1lKlAiOWI/AAAAAAAAG2w/ImTQIb4sFAYc90BtYh8lr_95MbyPySiqQCLcBGAsYHQ/s0/favicon.ico" type="image/ico">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <title>#VemPraBaianê</title>
