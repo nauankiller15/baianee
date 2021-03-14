@@ -1,5 +1,4 @@
 .video {
-    width: 500px;
     height: 500px;
     background: #ccc;
 }
@@ -87,6 +86,7 @@
     height: 100%;
     position: relative;
     transition-property: transform;
+    margin-right: 50px;
 }
 
 .swiper-slide-invisible-blank {
