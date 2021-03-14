@@ -2322,10 +2322,6 @@ blockquote {
     width: 50%
 }
 
-.main-links {
-    margin-top: 70px
-}
-
 .coordinates {
     margin-left: 15px
 }
@@ -3471,6 +3467,8 @@ blockquote {
         text-align: center
     }
     .main-links {
+        top: 251px;
+        left: 20px;
         display: -webkit-box;
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -3480,6 +3478,12 @@ blockquote {
         -ms-flex-pack: center;
         justify-content: center;
         position: absolute;
+    }
+    .link {
+        padding: 6px;
+        margin-right: 28px;
+        font-size: 23px;
+        font-weight: 400;
     }
     .container-banner {
         margin-right: 4vw;
