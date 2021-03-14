@@ -42,7 +42,7 @@
 <script src="JS/responsiveGallery.js"></script>
 
 <!-- Library -->
-<script type="text/javascript" src="Lib/modernizr.custom.js"></script>
+<script src="Lib/modernizr.custom.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
 <script>

@@ -3438,9 +3438,6 @@ blockquote {
         font-size: 30px;
         line-height: 50px
     }
-    .banner {
-        height: auto
-    }
     .alpha,
     .alpha.w--current {
         position: fixed;
@@ -3468,17 +3465,26 @@ blockquote {
         text-align: center
     }
     .main-links {
-        top: 251px;
+        top: 587px;
         left: 20px;
-        display: -webkit-box;
-        display: -webkit-flex;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-pack: center;
-        -webkit-justify-content: center;
-        -ms-flex-pack: center;
-        justify-content: center;
+    }
+    nav .menuItems li {
+        font-weight: 500;
+        padding: 5px;
+        text-decoration: none;
+        color: #ffffff;
+        font-size: 17px;
+        transition: all 0.2s ease-in-out;
+        position: relative;
+        cursor: pointer;
+        margin: 14px 4px 10px -10px;
+    }
+    nav .menuItems {
         position: absolute;
+        right: -40px;
+        list-style: none;
+        display: inline-block;
+        top: -6px;
     }
     .link {
         padding: 6px;

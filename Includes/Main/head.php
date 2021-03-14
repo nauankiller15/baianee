@@ -18,7 +18,6 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!--  -->
     <link rel="icon" href="https://1.bp.blogspot.com/--rVu94FrjTw/YE1lz5boezI/AAAAAAAAG24/z1F36EtHsjMTHqHM5xJpRs0vNcDUDYr3gCLcBGAsYHQ/s0/favicon.ico" type="image/ico">
-    
 
     <title>#VemPraBaianê</title>
 </head>
