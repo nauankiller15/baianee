@@ -2309,8 +2309,8 @@ blockquote {
     max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 65px;
-    padding-bottom: 20px;
+    padding-top: 90px;
+    padding-bottom: 120px;
     grid-row-gap: 0;
     text-align: center;
 }

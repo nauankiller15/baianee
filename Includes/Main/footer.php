@@ -1,4 +1,4 @@
-<div data-aos="fade-up" data-aos-duration="1000">
+<div data-aos="fade-up" data-aos-duration="1400">
 	<div class="footer">
 		<div class="container-footer">
 			<div class="content-left-right">
