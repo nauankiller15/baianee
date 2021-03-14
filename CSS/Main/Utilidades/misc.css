@@ -2307,10 +2307,10 @@ blockquote {
     max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 65px;
+    padding-bottom: 20px;
     grid-row-gap: 0;
-    text-align: center
+    text-align: center;
 }
 
 .container-small.left-text-align {
