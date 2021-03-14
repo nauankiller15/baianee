@@ -3449,10 +3449,6 @@ blockquote {
         position: fixed;
         top: 40px
     }
-    .container-small {
-        padding-top: 100px;
-        padding-bottom: 100px
-    }
     .container-banner,
     .main-content.style-content {
         padding-top: 150px;
