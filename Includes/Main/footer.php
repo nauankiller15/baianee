@@ -39,12 +39,12 @@
 <script src="JS/menu.anim.js"></script>
 <script src="JS/main.js"></script>
 <script src="JS/typed.js"></script>
-<script src="JS/testimonials.js"></script>
+<script src="JS/responsiveGallery.js"></script>
 <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 <!-- Library -->
-
+<script type="text/javascript" src="Lib/modernizr.custom.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
 <script>

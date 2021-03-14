@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\loader.css">
     <!-- SWIPER -->
-    <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\swiper.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\responsiveGallery.css">
     <!--  -->
     <!-- AOS MASTER -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
