@@ -6,7 +6,7 @@
 
  $(function() {
      typed.typed({
-         strings: ["#VemPraBaianê", "Estratégia", "Criatividade", "Desenvolvimento", "Venha até nós"],
+         strings: ["#VemPraBaianê", "Estratégia", "Criatividade", "Desenvolvimento"],
          typeSpeed: 105,
          loop: true,
      });
