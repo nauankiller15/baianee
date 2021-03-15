@@ -1,227 +1,262 @@
-h1 {
-    -webkit-transform-origin: 0 0;
-    -ms-transform-origin: 0 0;
-    transform-origin: 0 0;
-    font-size: 130px;
-    line-height: 150px;
-    letter-spacing: -.5px;
-}
-
-.main-links {
-    top: 787px;
-    left: 123px;
-    position: absolute;
-    margin-top: 70px;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    position: absolute;
-}
-
-.container-depoimentos {
-    max-width: 1140px;
-    margin-right: auto;
-    margin-left: auto;
-    padding-top: 100px;
-    grid-row-gap: 0;
-    text-align: center;
-}
-
-.menu-text,
-.middle-line,
-.vertical-link {
-    margin-left: 15px
-}
-
-.middle-line {
-    width: 16px;
-    height: 3px;
-    background-color: var(--borda-menu2);
-}
-
-.w-inline-block {
-    max-width: 100%;
-    display: inline-block;
-}
-
-.banner-content-half {
-    width: 50%;
-}
-
-.container-banner {
-    z-index: 10;
-    margin-right: 13vw;
-    margin-left: 13vw;
-}
-
-.link {
-    border-top: 5px solid var(--azul);
-    padding: 6px;
-    margin-right: 28px;
-    box-shadow: inset 0 -2px 0 0 var(---borda-menu2);
-    font-size: 27px;
-    line-height: 28px;
-    font-weight: 400;
-    cursor: pointer;
-    transition: 0.4s;
-    border-bottom: 1px solid var(--azul);
-    text-transform: uppercase;
-}
-
-.link:hover {
-    color: var(--azul);
-    transform: translate(0px, -6px);
-}
-
-.contato-mobile {
-    display: none;
-}
-
-.logo {
-    position: absolute;
-    background: url(https://1.bp.blogspot.com/-Vnl1pnrUrvM/YEv9fKIT1yI/AAAAAAAAG0w/v4BSbqbziZIeeOLjQPZ4jUvhmSce9-lOQCLcBGAsYHQ/s0/baiane-site-logo.png) no-repeat;
-    padding: 67px 186px 10px 10px;
-    cursor: pointer;
-    margin-top: 11px;
-    margin-left: -48px;
-    transition: 0.3s;
-}
-
-.logo:hover {
-    transform: translate(0px, -7px);
-}
-
-
-/*  */
-
-.menu {
-    position: absolute;
-    top: 0;
-    right: 0;
-    height: 98px;
-    width: 100%;
-    z-index: 1000;
-    transition: 0.4s;
-    background: linear-gradient(#0000006b, transparent);
-    font-family: Heebo;
-    animation: positMenu 2.2s ease-in-out;
-}
-
-.menu-back {
-    transition: 0.5s;
-    background: #00000096;
-    position: fixed;
-}
-
-.position {
-    width: 77%;
-    margin: auto;
-}
-
-nav {
-    position: relative;
-    right: 0;
-}
-
-nav .menuItems {
-    position: absolute;
-    right: -40px;
-    list-style: none;
-    display: flex;
-    top: -6px;
-}
-
-nav .menuItems li {
-    font-weight: 500;
-    padding: 21px;
-    text-decoration: none;
-    color: #ffffff;
-    font-size: 17px;
-    transition: all 0.2s ease-in-out;
-    position: relative;
-    cursor: pointer;
-    margin: 14px 4px 10px -10px;
-}
-
-nav .menuItems li:hover {
-    transform: translate(0px, -4px);
-}
-
-nav .menuItems li::before {
-    content: attr(data-item);
-    transition: 0.2s;
-    position: absolute;
-    top: 21px;
-    bottom: 0;
-    left: 21px;
-    right: 0;
-    width: 0;
-    overflow: hidden;
-    border-bottom: 2px solid var(--cor-borda-menu);
-    cursor: pointer;
-}
-
-nav .menuItems li:hover::before {
-    width: 67%;
-    transition: all 0.5s ease-in-out;
-}
-
-.consulta span {
-    position: relative;
-    z-index: 5;
-    cursor: pointer;
-    top: 0px;
-}
-
-.consulta {
-    font-weight: bold;
-    margin: 21px 10px 19px 9px;
-    color: var(--cor-menu);
-    border: 2px solid var(--cor-borda-menu);
-    padding: 13px 33px;
-    display: inline-block;
-    position: relative;
-    -webkit-transition: all 0.5s ease;
-    transition: all 0.4s ease;
-    overflow: hidden;
-    text-decoration: none;
-    cursor: pointer;
-    border-radius: 4px;
-    transition: 0.5s;
-    text-transform: uppercase;
-}
-
-.consulta:hover {
-    color: var(--cor-menu2);
-    transform: translate(0px, -3px);
-}
-
-.consulta:before {
-    content: '';
-    position: absolute;
-    left: 0;
-    right: 0;
-    width: 1px;
-    top: 0;
-    bottom: 0;
-    margin: auto;
-    background: var(--cor-background-menu);
-    -webkit-transition: -webkit-transform 0.2s ease;
-    transition: transform 0.4s ease;
-    z-index: 0;
-    opacity: 0;
-    cursor: pointer;
-    transition: 0.5s;
-}
-
-.consulta:hover:before {
-    -webkit-transform: scaleX(200);
-    -ms-transform: scaleX(200);
-    transform: scaleX(200);
-    opacity: 1;
-}
+        h1 {
+            -webkit-transform-origin: 0 0;
+            -ms-transform-origin: 0 0;
+            transform-origin: 0 0;
+            font-size: 130px;
+            line-height: 150px;
+            letter-spacing: -.5px;
+        }
+        
+        .main-links {
+            top: 787px;
+            left: 123px;
+            position: absolute;
+            margin-top: 70px;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: center;
+            -webkit-justify-content: center;
+            -ms-flex-pack: center;
+            justify-content: center;
+            position: absolute;
+        }
+        
+        .container-depoimentos {
+            max-width: 1140px;
+            margin-right: auto;
+            margin-left: auto;
+            padding-top: 100px;
+            grid-row-gap: 0;
+            text-align: center;
+        }
+        
+        .menu-text,
+        .middle-line,
+        .vertical-link {
+            margin-left: 15px
+        }
+        
+        .middle-line {
+            width: 16px;
+            height: 3px;
+            background-color: var(--borda-menu2);
+        }
+        
+        .w-inline-block {
+            max-width: 100%;
+            display: inline-block;
+        }
+        
+        .banner-content-half {
+            width: 50%;
+        }
+        
+        .container-banner {
+            z-index: 10;
+            margin-right: 13vw;
+            margin-left: 13vw;
+        }
+        
+        .link {
+            border-top: 5px solid var(--azul);
+            padding: 6px;
+            margin-right: 28px;
+            box-shadow: inset 0 -2px 0 0 var(---borda-menu2);
+            font-size: 27px;
+            line-height: 28px;
+            font-weight: 400;
+            cursor: pointer;
+            transition: 0.4s;
+            border-bottom: 1px solid var(--azul);
+            text-transform: uppercase;
+        }
+        
+        .link:hover {
+            color: var(--azul);
+            transform: translate(0px, -6px);
+        }
+        
+        .contato-mobile {
+            display: none;
+        }
+        
+        .logo {
+            position: absolute;
+            background: url(https://1.bp.blogspot.com/-Vnl1pnrUrvM/YEv9fKIT1yI/AAAAAAAAG0w/v4BSbqbziZIeeOLjQPZ4jUvhmSce9-lOQCLcBGAsYHQ/s0/baiane-site-logo.png) no-repeat;
+            padding: 67px 186px 10px 10px;
+            cursor: pointer;
+            top: 11px;
+            margin-left: -48px;
+            transition: 0.3s;
+        }
+        
+        .logo:hover {
+            transform: translate(0px, -7px);
+        }
+        /*  */
+        
+        .menu {
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 98px;
+            width: 100%;
+            z-index: 1000;
+            transition: 0.4s;
+            background: linear-gradient(#0000006b, transparent);
+            font-family: Heebo;
+            animation: positMenu 2.2s ease-in-out;
+        }
+        
+        .menu-back {
+            transition: 0.5s;
+            background: #00000096;
+            position: fixed;
+        }
+        
+        .position {
+            width: 77%;
+            margin: auto;
+        }
+        /*  */
+        
+        nav {
+            display: none;
+        }
+        
+        nav .menuItems {
+            display: none;
+        }
+        
+        nav .menuItems li {
+            display: none;
+        }
+        
+        nav .menuItems li.active {
+            display: none;
+        }
+        
+        nav .menuItems li:hover {
+            display: none;
+        }
+        
+        nav .menuItems li::before {
+            display: none;
+        }
+        
+        nav .menuItems li:hover::before {
+            display: none;
+        }
+        /*  */
+        
+        @media (min-width: 1000px) {
+            .contato-mobile {
+                display: none;
+            }
+            nav {
+                display: block;
+                position: relative;
+                right: 0;
+            }
+            nav .menuItems {
+                display: block;
+                position: absolute;
+                right: -40px;
+                list-style: none;
+                display: flex;
+                top: -6px;
+            }
+            nav .menuItems li {
+                display: block;
+                font-weight: 500;
+                padding: 21px;
+                text-decoration: none;
+                color: #ffffff;
+                font-size: 17px;
+                transition: all 0.2s ease-in-out;
+                position: relative;
+                cursor: pointer;
+                margin: 14px 4px 10px -10px;
+            }
+            nav .menuItems li.active {
+                display: block;
+                background: var(--cor-borda-menu);
+                padding: 21px;
+                color: #000;
+            }
+            nav .menuItems li:hover {
+                display: block;
+                transform: translate(0px, -4px);
+            }
+            nav .menuItems li::before {
+                display: block;
+                content: attr(data-item);
+                transition: 0.2s;
+                position: absolute;
+                top: 21px;
+                bottom: 0;
+                left: 21px;
+                right: 0;
+                width: 0;
+                overflow: hidden;
+                cursor: pointer;
+                border-bottom: 2px solid var(--cor-borda-menu);
+            }
+            nav .menuItems li:hover::before {
+                display: block;
+                width: 67%;
+                transition: all 0.5s ease-in-out;
+            }
+            .consulta span {
+                position: relative;
+                z-index: 5;
+                cursor: pointer;
+                top: 0px;
+            }
+            .consulta {
+                font-weight: bold;
+                margin: 21px 10px 19px 9px;
+                color: var(--cor-menu);
+                border: 2px solid var(--cor-borda-menu);
+                padding: 13px 33px;
+                display: inline-block;
+                position: relative;
+                -webkit-transition: all 0.5s ease;
+                transition: all 0.4s ease;
+                overflow: hidden;
+                text-decoration: none;
+                cursor: pointer;
+                border-radius: 4px;
+                transition: 0.5s;
+                text-transform: uppercase;
+            }
+            .consulta:hover {
+                color: var(--cor-menu2);
+                transform: translate(0px, -3px);
+            }
+            .consulta:before {
+                content: '';
+                position: absolute;
+                left: 0;
+                right: 0;
+                width: 1px;
+                top: 0;
+                bottom: 0;
+                margin: auto;
+                background: var(--cor-background-menu);
+                -webkit-transition: -webkit-transform 0.2s ease;
+                transition: transform 0.4s ease;
+                z-index: 0;
+                opacity: 0;
+                cursor: pointer;
+                transition: 0.5s;
+            }
+            .consulta:hover:before {
+                -webkit-transform: scaleX(200);
+                -ms-transform: scaleX(200);
+                transform: scaleX(200);
+                opacity: 1;
+            }
+        }

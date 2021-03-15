@@ -38,9 +38,10 @@
     transition: box-shadow 200ms ease, background-color 100ms ease, -webkit-transform 200ms ease;
     transition: box-shadow 200ms ease, transform 200ms ease, background-color 100ms ease;
     transition: box-shadow 200ms ease, transform 200ms ease, background-color 100ms ease, -webkit-transform 200ms ease;
-    font-size: 35px;
+    font-size: 42px;
     transition: 0.4s;
-    border-radius: 30px;
+    border-radius: 45px;
+    height: 60px;
 }
 
 .w-dropdown-toggle:focus {
@@ -59,8 +60,7 @@
 }
 
 .social-tit {
-    opacity: 0.75;
-    font-size: 20px;
+    font-size: 22px;
     margin: -38px;
     color: var(--preto);
     text-align: center;
@@ -163,16 +163,33 @@
     text-decoration: none;
     bottom: 30px;
     left: 30px;
-    color: #fff;
     text-align: center;
     cursor: pointer;
     font-weight: bold;
     text-transform: uppercase;
     position: fixed;
     border: 0;
-    z-index: 999;
+    z-index: 1005;
     transition: 0.5s;
     list-style: none;
+}
+
+
+/*  */
+
+
+/* AGRADECIMENTO DEPOIMENTOS */
+
+.depoimentos-caixa {
+    margin-top: 30px;
+}
+
+.depoimentos-caixa ul {
+    padding: 30px;
+    font-family: 'Satisfy', cursive;
+    font-size: 81px;
+    color: #00aeae;
+    text-shadow: 0px 6px 7px black;
 }
 
 
@@ -2485,7 +2502,7 @@ blockquote {
     margin-right: auto;
     margin-left: auto;
     padding-top: 100px;
-    padding-bottom: 190px;
+    padding-bottom: 95px;
     grid-row-gap: 0;
     text-align: center;
 }
@@ -3576,6 +3593,14 @@ blockquote {
     margin-bottom: 0
 }
 
+@media screen and (max-width:1350px) {
+    .container-banner {
+        z-index: 10;
+        margin-right: 5vw;
+        margin-left: 5vw;
+    }
+}
+
 
 /* RESPONSIVO MOBILE CSS */
 
@@ -3665,9 +3690,10 @@ blockquote {
         background: url(https://1.bp.blogspot.com/-wLaNb1L_ut4/YE6lGhM5q0I/AAAAAAAAG4Q/8omFFx4EzWYs7xgq7qH5M7r3YtkRqZwhACLcBGAsYHQ/s0/baiane-site-logo-mobile.png) no-repeat;
         padding: 67px 85px 10px 10px;
         cursor: pointer;
-        margin-top: 11px;
-        margin-left: -48px;
+        top: 12px;
+        margin-left: -35px;
         transition: 0.3s;
+        z-index: 999;
     }
     nav .menuItems li {
         font-weight: 500;
@@ -3696,10 +3722,8 @@ blockquote {
     }
     nav .menuItems {
         position: absolute;
-        left: 38px;
         list-style: none;
         top: 4px;
-        width: 100%;
     }
     .link {
         margin-top: 14px;
@@ -3707,6 +3731,13 @@ blockquote {
         margin-right: 28px;
         font-size: 26px;
         font-weight: 400;
+    }
+    .depoimentos-caixa ul {
+        padding: 30px;
+        font-family: 'Satisfy', cursive;
+        font-size: 41px;
+        color: #00aeae;
+        text-shadow: 0px 6px 7px black;
     }
     .container-banner {
         margin-right: 4vw;

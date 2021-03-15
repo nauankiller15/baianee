@@ -30,6 +30,7 @@
     width: 100%;
     margin: 0 auto;
     padding-top: 25%;
+    padding-bottom: 8%;
     /*用padding撑开容器高度*/
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
@@ -64,7 +65,7 @@
         /*此宽度下显示3个*/
     }
     .responsiveGallery-wrapper {
-        padding-top: 45%;
+        padding-top: 30%;
         /*相应调整容器高度*/
     }
 }
@@ -78,7 +79,7 @@
         /*最终显示1个，但上条样式决定其宽度为窗口宽度的60%*/
     }
     .responsiveGallery-wrapper {
-        padding-top: 80%;
+        padding-top: 30%;
         /*相应调整容器高度*/
     }
     .responsiveGallery-btn {

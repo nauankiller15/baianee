@@ -20,6 +20,8 @@
     /*  */
     --azul: #00aeae;
     --preto: #191a1a;
+    /* menu responsivo */
+    --fundo-responsivo: #000;
 }
 
 .azul {

@@ -36,12 +36,15 @@
 <!-- JS -->
 <!-- PRIMARY KEY -->
 <script src="Lib/jquery-3.5.1.min.js"></script>
-<script src="JS/menu.anim.js"></script>
 <script src="JS/main.js"></script>
 <script src="JS/typed.js"></script>
 <script src="JS/responsiveGallery.js"></script>
-<script src="JS/to.top.js"></script>
+
+<!-- menu animations -->
 <script src="JS/checkbox-botao.js"></script>
+<script src="JS/to.top.js"></script>
+<script src="JS/menu.anim.js"></script>
+<script src="JS/responsive-nav.js"></script>
 
 <!-- Library -->
 <script src="Lib/modernizr.custom.js"></script>
@@ -49,4 +52,5 @@
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
 <script>
 	AOS.init();
+	MenuAtivo();
 </script>

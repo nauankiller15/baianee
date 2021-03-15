@@ -10,10 +10,3 @@ jQuery(document).ready(function() {
         }
     });
 });
-
-// Animacao Click
-
-$('#socialBotao').on('click', function() {
-    $('.social-medias').slideToggle('slow');
-
-})
