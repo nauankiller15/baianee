@@ -3401,6 +3401,9 @@ blockquote {
     margin-bottom: 0
 }
 
+
+/* RESPONSIVO MOBILE CSS */
+
 @media screen and (max-width:991px) {
     .info-left,
     .info-right,
@@ -3469,6 +3472,10 @@ blockquote {
         display: inline-grid;
         align-items: center;
     }
+    .responsivo-depoimentos {
+        width: 200px;
+        height: 250px;
+    }
     .contato-mobile {
         display: block;
     }
@@ -3517,7 +3524,7 @@ blockquote {
         width: 100%;
     }
     .link {
-        margin-top: 8px;
+        margin-top: 14px;
         padding: 10px;
         margin-right: 28px;
         font-size: 26px;

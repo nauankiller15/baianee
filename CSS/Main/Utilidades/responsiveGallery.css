@@ -56,6 +56,9 @@
 }
 
 @media (max-width: 1000px) {
+    .responsiveGallery-container {
+        margin-bottom: 0px;
+    }
     .responsiveGallery-item {
         width: 33.33%;
         /*此宽度下显示3个*/
@@ -71,7 +74,7 @@
         width: 60%;
     }
     .responsiveGallery-item {
-        width: 100%;
+        width: 86%;
         /*最终显示1个，但上条样式决定其宽度为窗口宽度的60%*/
     }
     .responsiveGallery-wrapper {
