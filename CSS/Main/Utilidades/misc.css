@@ -86,6 +86,7 @@
     color: var(--preto);
     background-color: var(--azul);
     border-radius: 20px 0px 0px 20px;
+    margin-left: 12px;
 }
 
 
@@ -115,7 +116,7 @@
 
 .w-dropdown-list.w--open {
     display: inline-table;
-    width: 235px;
+    width: 264px;
     border-radius: 25px;
 }
 
@@ -1481,8 +1482,9 @@ fieldset[disabled] .w-select {
     vertical-align: top;
     text-decoration: none;
     color: #222;
-    padding: 20px;
-    white-space: nowrap
+    padding: 28px;
+    white-space: nowrap;
+    height: 50px;
 }
 
 .w-dropdown-toggle {
