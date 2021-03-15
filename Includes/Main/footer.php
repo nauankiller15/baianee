@@ -40,6 +40,8 @@
 <script src="JS/main.js"></script>
 <script src="JS/typed.js"></script>
 <script src="JS/responsiveGallery.js"></script>
+<script src="JS/to.top.js"></script>
+<script src="JS/checkbox-botao.js"></script>
 
 <!-- Library -->
 <script src="Lib/modernizr.custom.js"></script>

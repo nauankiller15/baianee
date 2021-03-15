@@ -1,3 +1,182 @@
+/* BOTÃO SOCIAL MEDIA */
+
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+    position: relative;
+    vertical-align: top;
+    text-decoration: none;
+    color: #6d6d6d;
+    padding: 9px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: nowrap;
+    transition: 0.4s;
+}
+
+.new-button-toggle {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-width: 1px;
+    border-color: #dfe3eb;
+    background: var(--azul);
+    color: #0a0a0a;
+    -webkit-transition: box-shadow 200ms ease, background-color 100ms ease, -webkit-transform 200ms ease;
+    transition: box-shadow 200ms ease, background-color 100ms ease, -webkit-transform 200ms ease;
+    transition: box-shadow 200ms ease, transform 200ms ease, background-color 100ms ease;
+    transition: box-shadow 200ms ease, transform 200ms ease, background-color 100ms ease, -webkit-transform 200ms ease;
+    font-size: 35px;
+    transition: 0.4s;
+    border-radius: 10px;
+}
+
+.w-dropdown-toggle:focus {
+    outline: 0;
+}
+
+.new-button-toggle.w--open {
+    -webkit-transform: rotate( 45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.sidebar-icon {
+    font-size: 28px;
+    margin: 12px;
+}
+
+.social-tit {
+    opacity: 0.75;
+    font-size: 20px;
+    margin: 0px;
+    color: var(--preto);
+    text-align: center;
+}
+
+.add-menu.w--open {
+    bottom: 70px;
+    border-bottom: 1px solid var(--cor-menu);
+    background-color: var(--azul);
+    border-top: 2px var(--cor-menu);
+    transition: 0.4s;
+}
+
+.add-menu.w--open a {
+    border-radius: none;
+    transition: 0.4s;
+}
+
+
+/* unvisited link */
+
+.add-menu.w--open a:link {
+    color: var(--preto);
+    background-color: var(--azul);
+    border-radius: 20px 0px 0px 20px;
+}
+
+
+/* visited link */
+
+.add-menu.w--open a:visited {
+    color: var(--preto);
+    background-color: var(--azul);
+}
+
+
+/* mouse over link */
+
+.add-menu.w--open a:hover {
+    color: var(--preto);
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+
+/* selected link */
+
+.add-menu.w--open a:active {
+    color: #000000;
+    background-color: #fff;
+}
+
+.w-dropdown-list.w--open {
+    display: inline-table;
+    width: 235px;
+    border-radius: 25px;
+}
+
+.w-dropdown-list {
+    position: fixed;
+    background: #141414;
+    display: none;
+    min-width: 100%;
+    left: 0;
+}
+
+.add-link {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 4px 16px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-transition: opacity 200ms ease;
+    transition: opacity 200ms ease;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.w-inline-block {
+    max-width: 100%;
+}
+
+.add-menu {
+    bottom: 0px;
+}
+
+
+/* ANIMAÇÃO SOCIAL MEDIA */
+
+.botaobottom {
+    text-decoration: none;
+    bottom: 30px;
+    left: 30px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: fixed;
+    border: 0;
+    z-index: 999;
+    transition: 0.5s;
+    list-style: none;
+}
+
+
+/*  */
+
 .w-lightbox-item,
 hr {
     box-sizing: content-box
@@ -1308,7 +1487,6 @@ fieldset[disabled] .w-select {
 
 .w-dropdown-toggle {
     user-select: none;
-    padding-right: 40px
 }
 
 .w-icon-dropdown-toggle {
@@ -1326,10 +1504,6 @@ fieldset[disabled] .w-select {
     background: #ddd;
     display: none;
     min-width: 100%
-}
-
-.w-dropdown-list.w--open {
-    display: block
 }
 
 .w-dropdown-link {
