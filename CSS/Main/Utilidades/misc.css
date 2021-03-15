@@ -2501,8 +2501,8 @@ blockquote {
     max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 100px;
-    padding-bottom: 95px;
+    padding-top: 270px;
+    padding-bottom: 270px;
     grid-row-gap: 0;
     text-align: center;
 }
@@ -2889,8 +2889,8 @@ blockquote {
     max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 190px;
-    padding-bottom: 50px;
+    padding-top: 195px;
+    padding-bottom: 205px;
     grid-row-gap: 0;
 }
 
@@ -3740,6 +3740,7 @@ blockquote {
         text-shadow: 0px 6px 7px black;
     }
     .container-banner {
+        margin-top: -25vw;
         margin-right: 4vw;
         margin-left: 4vw;
         -webkit-box-pack: center;

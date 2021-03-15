@@ -32,9 +32,9 @@
         </li>
     </div>
     <?php include("Includes/Main/menu.php"); ?>
-    <?php include("Includes/Main/Topicos/video.php"); ?>
-    <?php include("Includes/Main/Topicos/Servicos.php"); ?>
-    <?php include("Includes/Main/Topicos/Depoimentos.php"); ?>
+    <?php include("Includes/Paginas/Inicio.php"); ?>
+    <?php include("Includes/Paginas/Sobre.php"); ?>
+   
 </body>
 <?php include("Includes/Main/footer.php"); ?>
 

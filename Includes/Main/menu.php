@@ -32,8 +32,8 @@
                 <a href="index.php">
                     <li data-item='Inicio'>Inicio</li>
                 </a>
-                <li data-item='Sobre'>Sobre</li>
-                <li data-item='Time'>Time</li>
+                <li id="sobreAbrir" id="Sobre" data-item='Sobre'>Sobre</li>
+                <li id="timeAbrir" data-item='Time'>Time</li>
                 <s class="consulta" href='#'><span>Contato</span></s>
             </ul>
         </nav>

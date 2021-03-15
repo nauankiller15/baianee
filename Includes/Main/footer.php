@@ -45,6 +45,7 @@
 <script src="JS/to.top.js"></script>
 <script src="JS/menu.anim.js"></script>
 <script src="JS/responsive-nav.js"></script>
+<script src="JS/animacoes.js"></script>
 
 <!-- Library -->
 <script src="Lib/modernizr.custom.js"></script>

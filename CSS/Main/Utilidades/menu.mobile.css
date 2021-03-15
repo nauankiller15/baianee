@@ -251,13 +251,19 @@
         margin-bottom: 50px
     }
     .sidebar .sidebar-content .nav-left>a {
-        color: #ffffff;
+        color: var(--cor-menu);
         display: block;
         font-size: 24px;
         padding: 10px 0;
         line-height: 25px;
         text-decoration: none;
         font-weight: bold;
+        z-index: 1000;
+        transition: 0.5s
+    }
+    .sidebar .sidebar-content .nav-left>a:hover {
+        color: var(--azul);
+        transform: translate(0px, -4px);
     }
     .sidebar .sidebar-content .nav-left>a>span {
         color: #aaa;
