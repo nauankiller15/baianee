@@ -61,7 +61,7 @@
 .social-tit {
     opacity: 0.75;
     font-size: 20px;
-    margin: 0px;
+    margin: -25px;
     color: var(--preto);
     text-align: center;
 }
@@ -3655,6 +3655,9 @@ blockquote {
     }
     .consulta {
         display: none;
+    }
+    .social-tit {
+        margin: 0px;
     }
     .logo {
         position: absolute;
