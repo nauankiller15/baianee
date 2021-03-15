@@ -1,4 +1,4 @@
-<div class="sticky-menu">
+<div id="topo" class="sticky-menu">
     <div class="info-left">
         <div>Siga-nos</div>
         <div class="middle-line"></div>
