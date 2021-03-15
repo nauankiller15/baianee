@@ -78,6 +78,10 @@ h1 {
     transform: translate(0px, -6px);
 }
 
+.contato-mobile {
+    display: none;
+}
+
 .logo {
     position: absolute;
     background: url(https://1.bp.blogspot.com/-Vnl1pnrUrvM/YEv9fKIT1yI/AAAAAAAAG0w/v4BSbqbziZIeeOLjQPZ4jUvhmSce9-lOQCLcBGAsYHQ/s0/baiane-site-logo.png) no-repeat;
@@ -126,10 +130,10 @@ nav {
 
 nav .menuItems {
     position: absolute;
-    right: -40px;
+    right: 0;
     list-style: none;
-    display: flex;
     top: -6px;
+    width: 93%;
 }
 
 nav .menuItems li {

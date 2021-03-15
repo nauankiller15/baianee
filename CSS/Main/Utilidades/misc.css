@@ -3465,12 +3465,29 @@ blockquote {
         text-align: center
     }
     .main-links {
-        top: 587px;
-        left: 20px;
+        top: 429px;
+        left: 24px;
+        display: inline-grid;
+        align-items: center;
+    }
+    .contato-mobile {
+        display: block;
+    }
+    .consulta {
+        display: none;
+    }
+    .logo {
+        position: absolute;
+        background: url(https://1.bp.blogspot.com/-wLaNb1L_ut4/YE6lGhM5q0I/AAAAAAAAG4Q/8omFFx4EzWYs7xgq7qH5M7r3YtkRqZwhACLcBGAsYHQ/s0/baiane-site-logo-mobile.png) no-repeat;
+        padding: 67px 85px 10px 10px;
+        cursor: pointer;
+        margin-top: 11px;
+        margin-left: -48px;
+        transition: 0.3s;
     }
     nav .menuItems li {
         font-weight: 500;
-        padding: 5px;
+        padding: 13px;
         text-decoration: none;
         color: #ffffff;
         font-size: 17px;
@@ -3478,16 +3495,31 @@ blockquote {
         position: relative;
         cursor: pointer;
         margin: 14px 4px 10px -10px;
+        float: left;
+    }
+    nav .menuItems li::before {
+        content: attr(data-item);
+        transition: 0.2s;
+        position: absolute;
+        top: 13px;
+        bottom: 0;
+        left: 12px;
+        right: 0;
+        width: 0;
+        overflow: hidden;
+        border-bottom: 2px solid var(--cor-borda-menu);
+        cursor: pointer;
     }
     nav .menuItems {
         position: absolute;
-        right: -40px;
+        left: 38px;
         list-style: none;
-        display: inline-block;
-        top: -6px;
+        top: 4px;
+        width: 100%;
     }
     .link {
-        padding: 6px;
+        margin-top: 8px;
+        padding: 10px;
         margin-right: 28px;
         font-size: 26px;
         font-weight: 400;
@@ -3769,9 +3801,6 @@ blockquote {
     .menu-wrap {
         overflow: auto
     }
-    .logo {
-        height: 23px
-    }
     .headline-top-text {
         font-size: 20px;
         line-height: 30px
@@ -3890,9 +3919,6 @@ blockquote {
     .menu-block,
     .menu-wrap {
         z-index: 9999
-    }
-    .logo {
-        height: 18px
     }
     .left-arrow {
         left: 13%
