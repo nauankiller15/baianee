@@ -20,7 +20,7 @@
 						<a href="#" class="footer-nav-link">Sobre</a>
 						<a href="#" class="footer-nav-link">Time</a>
 						<a href="#" class="footer-nav-link">Contato</a>
-						<a href="#" class="footer-nav-link">Topo<i style="margin-left:10px;" class="fas fa-chevron-up"></i></a>
+						<a href="#menu" class="footer-nav-link">Topo<i style="margin-left:10px;" class="fas fa-chevron-up"></i></a>
 					</div>
 				</div>
 			</div>
