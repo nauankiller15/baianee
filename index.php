@@ -14,7 +14,7 @@
         <li style="animation: fadeIn 10.0s, slideMenu 2.7s;" id="botao-share">
             <div data-hover="" data-delay="0" class="new-button w-dropdown">
                 <div class="new-button-toggle w-dropdown-toggle" id="w-dropdown-toggle-4" aria-controls="w-dropdown-list-4" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
-                <div style="position:absolute;top: 11px;right: 18px;">+</div>
+                    +
                 </div>
                 <nav class="add-menu w-dropdown-list" id="w-dropdown-list-4" aria-labelledby="w-dropdown-toggle-4">
                     <h1 class="social-tit">Midias Sociais:</h1>
