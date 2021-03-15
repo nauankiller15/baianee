@@ -130,10 +130,10 @@ nav {
 
 nav .menuItems {
     position: absolute;
-    right: 0;
+    right: -40px;
     list-style: none;
+    display: flex;
     top: -6px;
-    width: 93%;
 }
 
 nav .menuItems li {

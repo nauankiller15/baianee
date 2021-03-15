@@ -2310,7 +2310,7 @@ blockquote {
     margin-right: auto;
     margin-left: auto;
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 190px;
     grid-row-gap: 0;
     text-align: center;
 }
@@ -2738,7 +2738,6 @@ blockquote {
 .friends-section {
     background-image: url(https://1.bp.blogspot.com/-p49BZYTdk0E/YE0-qjQIAbI/AAAAAAAAG10/ZV-DO2Atsb0rjqo6vUxbw7-nMofZdaiPwCLcBGAsYHQ/s0/bbb-fundo.png);
     background-size: cover;
-    padding-bottom: 222px;
 }
 
 .friends-section.black-image {
