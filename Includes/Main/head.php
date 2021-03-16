@@ -7,11 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="CSS\Main\styleindex.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
-    <link rel="stylesheet" type="text/css" href="CSS\Main\controles.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\footer2.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\controles-paginas.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\equipe-time.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\menu.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\anims.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\cores.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\misc.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\responsivoEquipe.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\loader.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\menu.mobile.css">
     <!-- responsiveGallery -->

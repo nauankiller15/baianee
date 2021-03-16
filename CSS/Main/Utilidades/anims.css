@@ -103,9 +103,21 @@
 
 @keyframes TimeAnim {
     from {
-        transform: translateX(900px);
+        transform: translateY(900px);
     }
     to {
-        transform: translateX(0);
+        transform: translateY(0);
+    }
+}
+
+
+/* ANIMAÇÂO PÁGINA CONTATO*/
+
+@keyframes TimeAnim {
+    from {
+        transform: translateY(-900px);
+    }
+    to {
+        transform: translateY(0);
     }
 }

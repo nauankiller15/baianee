@@ -2733,10 +2733,17 @@ blockquote {
 }
 
 .container-big {
-    margin-right: 13vw;
-    margin-left: 13vw;
+    margin-right: 7vw;
+    margin-left: 7vw;
     padding-top: 150px;
     padding-bottom: 150px
+}
+
+.container-big p {
+    color: #fff;
+    text-align: justify;
+    padding: 30px;
+    font-size: 23px;
 }
 
 .yellow-separator {
@@ -2976,6 +2983,11 @@ blockquote {
 
 .plus-margin-bottom {
     margin-bottom: 40px
+}
+
+.plus-margin-equipe {
+    margin-right: 13vw;
+    margin-left: 13vw;
 }
 
 .content-width {
@@ -3802,9 +3814,15 @@ blockquote {
         background-image: none
     }
     .container-big {
-        margin-right: 4vw;
-        margin-left: 4vw;
+        margin-right: 0vw;
+        margin-left: 0vw;
         text-align: center
+    }
+    .container-big p {
+        color: #fff;
+        text-align: justify;
+        padding: 14px;
+        font-size: 15px;
     }
     .logos-grid,
     .yellow-separator {

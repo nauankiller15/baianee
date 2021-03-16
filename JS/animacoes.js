@@ -14,6 +14,8 @@ $('#inicioAbrir').on('click', function() {
     $('#time').fadeOut("700");
     $('#contato').fadeOut('600');
     $('#sobre').fadeOut('600');
+    $('#footer').fadeIn('600');
+    $('#footer2').fadeOut('600');
     AOS.init();
 
 })
@@ -31,6 +33,8 @@ $('#sobreAbrir').on('click', function() {
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
     $('#time').fadeOut("700");
+    $('#footer').fadeIn('600');
+    $('#footer2').fadeOut('600');
     AOS.init();
 })
 
@@ -44,6 +48,8 @@ $('#timeAbrir').on('click', function() {
     $('#sobre').fadeOut('600');
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
+    $('#footer').fadeOut('600');
+    $('#footer2').fadeIn('600');
     AOS.init();
 })
 
@@ -62,7 +68,6 @@ $('#inicioAbrirBottom').on('click', function() {
 
 })
 
-// 
 // 
 // 
 // 
@@ -99,6 +104,8 @@ $('#inicioAbrirResponsv').on('click', function() {
     $('#time').fadeOut("700");
     $('#contato').fadeOut('600');
     $('#sobre').fadeOut('600');
+    $('#footer').fadeIn('600');
+    $('#footer2').fadeOut('600');
     AOS.init();
 
 })
@@ -117,6 +124,8 @@ $('#sobreAbrirResponsv').on('click', function() {
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
     $('#time').fadeOut("700");
+    $('#footer').fadeIn('600');
+    $('#footer2').fadeOut('600');
     AOS.init();
 })
 
@@ -131,8 +140,48 @@ $('#timeAbrirResponsv').on('click', function() {
     $('#sobre').fadeOut('600');
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
+    $('#footer').fadeOut('600');
+    $('#footer2').fadeIn('600');
     AOS.init();
 })
 
+// 
+//
+
+// 
+// 
+// --------------------------------
+// ANIMAÇÃO FOOTER DA PÁGINA DE TIME
+// --------------------------------
+//
+// 
+// 
+// Animação Inicio Abrir
+// 
+$('#inicioAbrirBottom2').on('click', function() {
+    $('#inicioAbrir').trigger('click');
+
+})
+
+// 
+// 
+// 
+// 
+// Animação Sobre Abrir
+// 
+$('#sobreAbrirBottom2').on('click', function() {
+    $('#sobreAbrir').trigger('click');
+})
+
+// 
+// 
+// 
+// Animação Time Abrir
+$('#timeAbrirBottom2').on('click', function() {
+    $('#timeAbrir').trigger('click');
+})
+
+//
+// 
 // 
 //
