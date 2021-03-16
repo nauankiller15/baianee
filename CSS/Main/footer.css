@@ -34,6 +34,7 @@
     text-decoration: none;
     color: inherit;
     border-bottom: 1px solid;
+    cursor: pointer;
 }
 
 .creditos a:hover {

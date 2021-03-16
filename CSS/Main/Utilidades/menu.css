@@ -209,13 +209,13 @@
                 width: 67%;
                 transition: all 0.5s ease-in-out;
             }
-            .consulta span {
+            .contato span {
                 position: relative;
                 z-index: 5;
                 cursor: pointer;
                 top: 0px;
             }
-            .consulta {
+            .contato {
                 font-weight: bold;
                 margin: 21px 10px 19px 9px;
                 color: var(--cor-menu);
@@ -232,11 +232,11 @@
                 transition: 0.5s;
                 text-transform: uppercase;
             }
-            .consulta:hover {
+            .contato:hover {
                 color: var(--cor-menu2);
                 transform: translate(0px, -3px);
             }
-            .consulta:before {
+            .contato:before {
                 content: '';
                 position: absolute;
                 left: 0;
@@ -253,7 +253,7 @@
                 cursor: pointer;
                 transition: 0.5s;
             }
-            .consulta:hover:before {
+            .contato:hover:before {
                 -webkit-transform: scaleX(200);
                 -ms-transform: scaleX(200);
                 transform: scaleX(200);

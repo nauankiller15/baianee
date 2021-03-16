@@ -29,6 +29,7 @@ body {
     font-size: 18px;
     line-height: 38px;
     font-weight: 400;
+    background: var(--preto);
 }
 
 h1,

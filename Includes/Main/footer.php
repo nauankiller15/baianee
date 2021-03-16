@@ -1,4 +1,4 @@
-<div data-aos="fade-up" data-aos-duration="1400">
+<div id="footer">
 	<div class="footer">
 		<div class="container-footer">
 			<div class="content-left-right">
@@ -16,10 +16,10 @@
 					</div>
 					<div class="bottom">
 						<div class="footer-title">Navegação</div>
-						<a href="index.php" aria-current="page" class="footer-nav-link w--current">Inicio</a>
-						<a href="#" class="footer-nav-link">Sobre</a>
-						<a href="#" class="footer-nav-link">Time</a>
-						<a href="#" class="footer-nav-link">Contato</a>
+						<a id="inicioAbrirBottom" aria-current="page" class="footer-nav-link w--current">Inicio</a>
+						<a id="sobreAbrirBottom" class="footer-nav-link">Sobre</a>
+						<a id="timeAbrirBottom" class="footer-nav-link">Time</a>
+						<a id="" class="footer-nav-link">Contato</a>
 						<a href="#topo" class="footer-nav-link">Topo<i style="margin-left:10px;" class="fas fa-chevron-up"></i></a>
 					</div>
 				</div>

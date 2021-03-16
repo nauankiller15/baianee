@@ -2295,10 +2295,15 @@ p {
     padding: 13px;
     background: #101010;
     font-family: Heebo, sans-serif;
-    color: #bbb;
+    color: var(--cor-p);
     font-size: 16px;
     line-height: 27px;
     font-weight: 300;
+}
+
+u {
+    padding: 10px;
+    line-height: 10px;
 }
 
 a {
@@ -2676,8 +2681,8 @@ blockquote {
 }
 
 .section.cta {
-    background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, #000), to(transparent)), url(https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a3849ba5cb749e43b22b_Untitled-1.png);
-    background-image: linear-gradient(90deg, #000 25%, transparent), url(https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a3849ba5cb749e43b22b_Untitled-1.png);
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, #000), to(transparent)), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
+    background-image: linear-gradient(90deg, #000 25%, transparent), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
     background-position: 0 0, 100.5% 50%;
     background-size: auto, contain;
     background-repeat: repeat, no-repeat
@@ -2970,7 +2975,7 @@ blockquote {
 }
 
 .plus-margin-bottom {
-    margin-bottom: 80px
+    margin-bottom: 40px
 }
 
 .content-width {
@@ -3021,7 +3026,8 @@ blockquote {
 .footer-nav-link {
     margin-right: 20px;
     transition: color .3s ease;
-    color: #707070
+    color: #707070;
+    cursor: pointer;
 }
 
 .footer-nav-link:hover {
@@ -3679,7 +3685,7 @@ blockquote {
     .contato-mobile {
         display: block;
     }
-    .consulta {
+    .contato {
         display: none;
     }
     .social-tit {
@@ -3934,8 +3940,8 @@ blockquote {
         margin-bottom: 60px
     }
     .section-2 {
-        background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, #000), to(transparent)), url(https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a3849ba5cb749e43b22b_Untitled-1.png);
-        background-image: linear-gradient(90deg, #000 25%, transparent), url(https://uploads-ssl.webflow.com/5df8a318143ebc0bdb0bfba6/5e15a3849ba5cb749e43b22b_Untitled-1.png);
+        background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, #000), to(transparent)), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
+        background-image: linear-gradient(90deg, #000 25%, transparent), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
         background-position: 0 0, 100.5% 50%;
         background-size: auto, contain;
         background-repeat: repeat, no-repeat;
