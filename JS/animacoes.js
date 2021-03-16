@@ -93,6 +93,7 @@ $('#timeAbrirBottom').on('click', function() {
 // 
 $('#inicioAbrirResponsv').on('click', function() {
     $(window).scrollTop(0);
+    $('.header').trigger('click');
     $("#inicio").fadeIn('600');
     $('#contato').fadeOut('600');
     $('#time').fadeOut("700");
@@ -111,6 +112,7 @@ $('#inicioAbrirResponsv').on('click', function() {
 // 
 $('#sobreAbrirResponsv').on('click', function() {
     $(window).scrollTop(0);
+    $('.header').trigger('click');
     $('#sobre').fadeIn('600');
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
@@ -124,6 +126,7 @@ $('#sobreAbrirResponsv').on('click', function() {
 // Animação Time Abrir
 $('#timeAbrirResponsv').on('click', function() {
     $(window).scrollTop(0);
+    $('.header').trigger('click');
     $('#time').fadeIn("700");
     $('#sobre').fadeOut('600');
     $("#inicio").fadeOut('600');

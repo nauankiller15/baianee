@@ -87,11 +87,23 @@
 }
 
 
-/* ANIMAÇÂO PÁGINA CONTATO*/
+/* ANIMAÇÂO PÁGINA SOBRE*/
 
 @keyframes SobreAnim {
     from {
         transform: translateX(-900px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+
+/* ANIMAÇÂO PÁGINA TIME*/
+
+@keyframes TimeAnim {
+    from {
+        transform: translateX(900px);
     }
     to {
         transform: translateX(0);

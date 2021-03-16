@@ -259,7 +259,8 @@
         text-decoration: none;
         font-weight: bold;
         z-index: 1000;
-        transition: 0.5s
+        transition: 0.5s;
+        cursor: pointer;
     }
     .sidebar .sidebar-content .nav-left>a:hover {
         color: var(--azul);

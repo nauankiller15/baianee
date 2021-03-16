@@ -2,3 +2,8 @@
     display: none;
     animation: SobreAnim 1.2s ease-in-out;
 }
+
+#time {
+    display: none;
+    animation: TimeAnim 1.2s ease-in-out;
+}
