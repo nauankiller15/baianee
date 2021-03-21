@@ -3752,8 +3752,6 @@ blockquote {
     /*  */
     /*  */
     .main-links {
-        top: 429px;
-        left: 24px;
         display: inline-grid;
         align-items: center;
     }

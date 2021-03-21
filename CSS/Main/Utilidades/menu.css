@@ -8,19 +8,8 @@
         }
         
         .main-links {
-            z-index: 9999;
-            padding: 19px;
-            margin-top: -25px;
-            display: -webkit-box;
-            display: -webkit-flex;
-            display: -ms-flexbox;
-            display: flex;
-            -webkit-box-pack: center;
-            -webkit-justify-content: center;
-            -ms-flex-pack: center;
-            justify-content: center;
-            display: flex;
-            background: #101010;
+            margin-top: 8vh;
+            margin-left: 56px;
         }
         
         .container-depoimentos {
@@ -50,7 +39,7 @@
         }
         
         .banner-content-half {
-            width: 50%;
+            width: 100%;
         }
         
         .container-banner {
