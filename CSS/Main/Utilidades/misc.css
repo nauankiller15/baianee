@@ -3949,8 +3949,8 @@ blockquote {
         margin-right: 4vw;
         margin-left: 4vw;
         padding-top: 80px;
-        padding-bottom: 80px;
-        text-align: left
+        padding-bottom: 62px;
+        text-align: left;
     }
     .menu-block {
         -webkit-transform-origin: 4vw 50px;
