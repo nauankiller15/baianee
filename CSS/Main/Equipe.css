@@ -41,6 +41,7 @@
     width: 39vh;
     background: var(--azul);
     color: #000000;
+    text-shadow: 0 3px 0 var(--branco), 0 0 10px var(--azul);
 }
 
 
