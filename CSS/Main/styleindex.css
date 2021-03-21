@@ -32,6 +32,14 @@ body {
     background: var(--preto);
 }
 
+.centro {
+    text-align: center;
+}
+
+.preto {
+    color: var(--preto)
+}
+
 h1,
 h2,
 h3,

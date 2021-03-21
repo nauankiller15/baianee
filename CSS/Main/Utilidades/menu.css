@@ -189,6 +189,7 @@
             nav .menuItems li:hover {
                 display: block;
                 transform: translate(0px, -4px);
+                color: var(--preto)
             }
             nav .menuItems li::before {
                 display: block;
@@ -202,7 +203,7 @@
                 width: 0;
                 overflow: hidden;
                 cursor: pointer;
-                border-bottom: 2px solid var(--cor-borda-menu);
+                color: var(--azul)
             }
             nav .menuItems li:hover::before {
                 display: block;

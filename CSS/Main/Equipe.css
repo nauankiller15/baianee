@@ -1,0 +1,104 @@
+.container-big-depoimentos {
+    padding-top: 85px;
+    padding-bottom: 150px;
+    background-image: url(https://1.bp.blogspot.com/-RKeeERC40As/YFZ97GPOaHI/AAAAAAAAG7s/iK15fVQbHRABlV7epyMMrdbt57WJtQERACLcBGAsYHQ/s0/arestas-fundo-circulos-equipe.png), url(https://1.bp.blogspot.com/-DY3gZAzsT9I/YFZ9pnUkyXI/AAAAAAAAG7c/LekTgES2RLwSVva18LJ4F_qd2zo-Mo6PACLcBGAsYHQ/s0/arestas-equipe.png), url(https://1.bp.blogspot.com/-zlyPg3cf9Q4/YFaA3rRflWI/AAAAAAAAG70/2vREqOBqJ1shfkhjxEze864KbEwrrA2sgCLcBGAsYHQ/s0/arestas-equipe2.png), url(https://1.bp.blogspot.com/-b77hDlPNZGo/YFaDKoaPDkI/AAAAAAAAG78/wp0TTzNEr549Q_bWXnG1INdKNMpXMDgnQCLcBGAsYHQ/s0/circulos.png), url(https://1.bp.blogspot.com/-E94JTPrGT08/YFZ90S3R0SI/AAAAAAAAG7k/-gjG6oQ39sUn4M26aK3ozDoOzonv3wTzwCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes%2Bequipe.png), url(https://1.bp.blogspot.com/-RKeeERC40As/YFZ97GPOaHI/AAAAAAAAG7s/iK15fVQbHRABlV7epyMMrdbt57WJtQERACLcBGAsYHQ/s0/arestas-fundo-circulos-equipe.png);
+    background-position: 0px 15%, 100% 0, 99% 30%, 82% 77%, 0 59%, 0 95%, 0 100%;
+    background-size: auto, auto, auto, auto, auto, auto;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+}
+
+.content-width-depoimentos {
+    width: 100%;
+    margin-left: 10vh;
+}
+
+.section-depo {
+    margin-top: 11vh;
+    background-position: 0 0, 100.5% 50%;
+    background-size: auto, contain;
+    background-repeat: repeat, no-repeat;
+    background-color: var(--azul);
+}
+
+.centro-depo {
+    background: var(--azul);
+    padding: 16px;
+    border-bottom: 2px solid;
+    text-align: center;
+    font-size: 93px;
+    width: 68vh;
+    margin: 0 auto;
+}
+
+
+/*  */
+
+.upper {
+    margin-left: 14vh;
+    text-transform: uppercase;
+    border-top: 18px solid;
+    width: 39vh;
+    background: var(--azul);
+    color: #000000;
+}
+
+
+/* PERSONAGENS */
+
+.ricardo {
+    background: url(https://1.bp.blogspot.com/-B-EHuCqqLLM/YFAfd21BqwI/AAAAAAAAG6c/0evFewMdv68FBrH6KOv7LSlrX6nu36xGQCLcBGAsYHQ/s0/Ricardo.png) no-repeat;
+    background-size: 42%;
+    padding: 300px;
+}
+
+.marcos {
+    background: url(https://1.bp.blogspot.com/-h0xeHX3TE2Y/YFA3vMUST2I/AAAAAAAAG7A/uQwLsY1ddHITgGIYsb24wcASl8Z-w870ACLcBGAsYHQ/s0/Marcos.png) no-repeat;
+    background-size: 48%;
+    padding: 300px;
+    margin-top: 0vh;
+}
+
+.erick {
+    background: url(https://1.bp.blogspot.com/-3nJA7mn6EEE/YFAflYQ5A3I/AAAAAAAAG6g/uacxEsyUnxMk2BpdxO82VGazR2DToGP0QCLcBGAsYHQ/s0/Erick.png) no-repeat;
+    background-size: 52%;
+    padding: 300px;
+    margin-top: 10vh;
+}
+
+.gabriel-batata {
+    background: url(https://1.bp.blogspot.com/-8iguvvYF9to/YFAfxLHCelI/AAAAAAAAG6s/tPAu7_zTXXMCI40-V2l2edIGg29pTVjXwCLcBGAsYHQ/s0/Gabriel%2BBatata.png) no-repeat;
+    background-size: 42%;
+    padding: 300px;
+    margin-top: 3vh;
+}
+
+.nauan {
+    background: url(https://1.bp.blogspot.com/-H3DhuUH7F60/YFAf2BtsL_I/AAAAAAAAG6w/-ly4SbXUveAwweDwES7iwu1P6EePAFzjACLcBGAsYHQ/s0/Nauan.png) no-repeat;
+    background-size: 38%;
+    padding: 300px;
+    margin-top: -15vh;
+}
+
+
+/*  */
+
+.depoimento-hud {
+    margin: auto;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr
+}
+
+.depoimento-hud li {
+    list-style: none;
+    margin-top: 2vh;
+}
+
+.depoimento-hud span {
+    border-bottom: 8px solid;
+    padding: 3px;
+    font-weight: 500;
+    font-size: 50px;
+    color: var(--preto);
+    background: var(--azul);
+    line-height: 88px;
+}
