@@ -3686,9 +3686,9 @@ blockquote {
     }
     .container-big-depoimentos {
         padding-top: 85px;
-        padding-bottom: 150px;
+        padding-bottom: 0px;
         background-image: url(https://1.bp.blogspot.com/-DY3gZAzsT9I/YFZ9pnUkyXI/AAAAAAAAG7c/LekTgES2RLwSVva18LJ4F_qd2zo-Mo6PACLcBGAsYHQ/s0/arestas-equipe.png), url(https://1.bp.blogspot.com/-zlyPg3cf9Q4/YFaA3rRflWI/AAAAAAAAG70/2vREqOBqJ1shfkhjxEze864KbEwrrA2sgCLcBGAsYHQ/s0/arestas-equipe2.png), url(https://1.bp.blogspot.com/-E94JTPrGT08/YFZ90S3R0SI/AAAAAAAAG7k/-gjG6oQ39sUn4M26aK3ozDoOzonv3wTzwCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes%2Bequipe.png), url(https://1.bp.blogspot.com/-RKeeERC40As/YFZ97GPOaHI/AAAAAAAAG7s/iK15fVQbHRABlV7epyMMrdbt57WJtQERACLcBGAsYHQ/s0/arestas-fundo-circulos-equipe.png);
-        background-position: 100% 0, 99% 30%, 0 59%, 0 100%, 0 100%;
+        background-position: 100% 0, 99% 30%, 0 59%, 0 97%, 0 100%;
         background-size: auto, auto, auto, auto;
         background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
     }
@@ -3698,29 +3698,29 @@ blockquote {
     /* TIME */
     /*  PESSOAS */
     .ricardo {
-        background-size: 52%;
-        padding: 172px;
+        background-size: 63%;
+        padding: 195px;
         margin-top: 10vh;
     }
     .marcos {
-        background-size: 59%;
-        padding: 230px;
-        margin-top: 10vh;
+        background-size: 76%;
+        padding: 194px;
+        margin-top: -14vh;
     }
     .erick {
-        background-size: 65%;
-        padding: 149px;
-        margin-top: 10vh;
+        background-size: 91%;
+        padding: 172px;
+        margin-top: -14vh;
     }
     .gabriel-batata {
-        background-size: 61%;
-        padding: 183px;
-        margin-top: 10vh;
+        background-size: 76%;
+        padding: 226px;
+        margin-top: -11vh;
     }
     .nauan {
-        background-size: 57%;
-        padding: 124px;
-        margin-top: 10vh;
+        background-size: 75%;
+        padding: 219px;
+        margin-top: -21vh;
     }
     /*  */
     .section-depo {
@@ -3740,12 +3740,13 @@ blockquote {
         color: var(--preto);
         background: var(--azul);
         line-height: 64px;
+        display: inline-block;
     }
     .upper {
         background: var(--azul);
         text-transform: uppercase;
         border-top: 11px solid;
-        width: 24vh;
+        width: 26vh;
     }
     /*  */
     /*  */
