@@ -3720,7 +3720,7 @@ blockquote {
     }
     /*  */
     .section-depo {
-        margin-top: 14vh;
+        margin-top: 11vh;
     }
     .centro-depo {
         padding: 9px;
@@ -3739,10 +3739,12 @@ blockquote {
         display: inline-block;
     }
     .upper {
+        margin-top: 6vh;
         background: var(--azul);
         text-transform: uppercase;
         border-top: 11px solid;
         width: 26vh;
+        padding: 6px;
     }
     /*  */
     /*  */
@@ -4048,7 +4050,8 @@ blockquote {
     }
     .container-banner {
         margin-right: auto;
-        margin-left: auto
+        margin-left: auto;
+        overflow: hidden;
     }
     .content-half.c-footer {
         margin-top: 40px
