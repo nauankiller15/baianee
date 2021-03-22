@@ -28,6 +28,8 @@
     font-size: 93px;
     width: 68vh;
     margin: 0 auto;
+    text-shadow: 0 1px 0 var(--branco), 0 0 10px var(--azul);
+    box-shadow: 0 1px 0 var(--branco);
 }
 
 
@@ -38,7 +40,7 @@
     margin-left: -3vh;
     text-transform: uppercase;
     border-top: 18px solid;
-    width: 39vh;
+    width: 46vh;
     background: var(--azul);
     color: #000000;
     text-shadow: 0 3px 0 var(--branco), 0 0 10px var(--azul);
@@ -104,5 +106,30 @@
     background: var(--azul);
     line-height: 92px;
     text-shadow: 0 2px 0 var(--branco), 0 0 10px var(--azul);
-    box-shadow: 0 4px 0 var(--branco);
+    box-shadow: 0 2px 0 var(--branco);
+}
+
+@media screen and (min-width:1900px) {
+    .upper {
+        margin-top: 65vh;
+        margin-left: -3vh;
+        text-transform: uppercase;
+        border-top: 18px solid;
+        width: 59vh;
+    }
+    .gabriel-batata {
+        background-size: 42%;
+        padding: 402px;
+        margin-top: 0vh;
+    }
+    .erick {
+        background-size: 45%;
+        padding: 300px;
+        margin-top: 9vh;
+    }
+    .nauan {
+        background-size: 38%;
+        padding: 232px;
+        margin-top: -21vh;
+    }
 }

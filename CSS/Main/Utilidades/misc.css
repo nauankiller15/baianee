@@ -3740,6 +3740,8 @@ blockquote {
         display: inline-block;
         width: 358px;
         margin-left: -24vh;
+        text-shadow: 0 1px 0 var(--branco), 0 0 10px var(--azul);
+        box-shadow: 0 1px 0 var(--branco);
     }
     .upper {
         margin-top: 6vh;
