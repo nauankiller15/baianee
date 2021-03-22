@@ -102,5 +102,7 @@
     font-size: 50px;
     color: var(--preto);
     background: var(--azul);
-    line-height: 88px;
+    line-height: 92px;
+    text-shadow: 0 2px 0 var(--branco), 0 0 10px var(--azul);
+    box-shadow: 0 4px 0 var(--branco);
 }
