@@ -167,7 +167,7 @@
                 transition: all 0.2s ease-in-out;
                 position: relative;
                 cursor: pointer;
-                margin: 14px 4px 10px -10px;
+                margin: 13px 14px 10px -9px;
             }
             nav .menuItems li.active {
                 display: block;

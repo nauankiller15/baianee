@@ -36,6 +36,7 @@
     <?php include("Includes/Paginas/Inicio.php"); ?>
     <?php include("Includes/Paginas/Sobre.php"); ?>
     <?php include("Includes/Paginas/Time.php"); ?>
+    <?php include("Includes/Paginas/contato.php"); ?>
 
 </body>
 <?php include("Includes/Main/footer.php"); ?>

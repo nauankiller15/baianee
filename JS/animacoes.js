@@ -12,10 +12,7 @@ $('#inicioAbrir').on('click', function() {
     $("#inicio").fadeIn('600');
     $('#contato').fadeOut('600');
     $('#time').fadeOut("700");
-    $('#contato').fadeOut('600');
     $('#sobre').fadeOut('600');
-    $('#footer').fadeIn('600');
-    $('#footer2').fadeOut('600');
 
 })
 
@@ -44,6 +41,21 @@ $('#timeAbrir').on('click', function() {
     $('#sobre').fadeOut('600');
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
+})
+
+// 
+// 
+
+// 
+// 
+// 
+// Animação Contato Abrir
+$('#contatoAbrir').on('click', function() {
+    $(window).scrollTop(0);
+    $('#contato').fadeIn("700");
+    $('#sobre').fadeOut('600');
+    $("#inicio").fadeOut('600');
+    $("#time").fadeOut('600');
 })
 
 // 
@@ -79,7 +91,18 @@ $('#timeAbrirBottom').on('click', function() {
     $('#timeAbrir').trigger('click');
 })
 
-//
+// 
+// 
+// 
+// 
+// Animação Sobre Abrir
+// 
+$('#contatoAbrirBottom').on('click', function() {
+    $('#contatoAbrir').trigger('click');
+})
+
+// 
+// 
 // 
 // 
 // 
@@ -127,4 +150,17 @@ $('#timeAbrirResponsv').on('click', function() {
     $('#sobre').fadeOut('600');
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
+})
+
+// 
+// 
+// 
+// Animação Time Abrir
+$('#contatoAbrirResponsv').on('click', function() {
+    $(window).scrollTop(0);
+    $('.header').trigger('click');
+    $('#contato').fadeIn("700");
+    $('#sobre').fadeOut('600');
+    $("#inicio").fadeOut('600');
+    $('#time').fadeOut('600');
 })

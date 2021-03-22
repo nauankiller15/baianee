@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer2.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\controles-paginas.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\parallax.controller.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\menu.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\anims.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\cores.css">

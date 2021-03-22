@@ -2679,10 +2679,11 @@ blockquote {
 
 .section.cta {
     background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, #000), to(transparent)), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
-    background-image: linear-gradient(90deg, #000 25%, transparent), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
-    background-position: 0 0, 100.5% 50%;
-    background-size: auto, contain;
-    background-repeat: repeat, no-repeat
+    background-image: linear-gradient( 90deg, #000 25%, transparent), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
+    background-position: 0 0, 100.5% 0%;
+    background-size: 100%, 50%;
+    background-repeat: repeat, no-repeat;
+    animation: transicoes 3.5s ease-in-out infinite;
 }
 
 .d-133-image-wrapper,
@@ -3972,7 +3973,7 @@ blockquote {
         background-position: 0 0, 100.5% 50%;
         background-size: auto, contain;
         background-repeat: repeat, no-repeat;
-        background-attachment: scroll, scroll
+        background-attachment: scroll, scroll;
     }
 }
 

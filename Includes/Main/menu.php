@@ -5,7 +5,7 @@
             <li id="inicioAbrirResponsv"><a>Inicio</a></li>
             <li id="sobreAbrirResponsv"><a>Sobre</a></li>
             <li id="timeAbrirResponsv"><a>Time</a></li>
-            <li><a href="#">Contato</a></li>
+            <li id="contatoAbrirResponsv"><a>Contato</a></li>
 
         </ul>
     </div>
@@ -25,7 +25,7 @@
                 <li id="inicioAbrir" data-item='Inicio'>Inicio</li>
                 <li id="sobreAbrir" data-item='Sobre'>Sobre</li>
                 <li id="timeAbrir" data-item='Time'>Time</li>
-                <s id="contatoAbrir" class="contato" href='#'><span>Contato</span></s>
+                <li id="contatoAbrir" class="contato" href='#'><span>Contato</span></li>
             </ul>
         </nav>
     </div>

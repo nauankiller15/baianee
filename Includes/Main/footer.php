@@ -19,7 +19,7 @@
 						<a id="inicioAbrirBottom" aria-current="page" class="footer-nav-link w--current">Inicio</a>
 						<a id="sobreAbrirBottom" class="footer-nav-link">Sobre</a>
 						<a id="timeAbrirBottom" class="footer-nav-link">Time</a>
-						<a id="" class="footer-nav-link">Contato</a>
+						<a id="contatoAbrirBottom" class="footer-nav-link">Contato</a>
 						<a href="#topo" class="footer-nav-link">Topo<i style="margin-left:10px;" class="fas fa-chevron-up"></i></a>
 					</div>
 				</div>
@@ -38,6 +38,7 @@
 <script src="Lib/jquery-3.5.1.min.js"></script>
 <script src="JS/main.js"></script>
 <script src="JS/typed.js"></script>
+<script src="JS/contact-form.js"></script>
 <script src="JS/responsiveGallery.js"></script>
 
 <!-- menu animations -->
@@ -48,6 +49,7 @@
 <script src="JS/animacoes.js"></script>
 
 <!-- Library -->
+<script src="Lib/parallax.min.js"></script>
 <script src="Lib/modernizr.custom.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
