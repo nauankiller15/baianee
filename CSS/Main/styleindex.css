@@ -30,6 +30,7 @@ body {
     line-height: 38px;
     font-weight: 400;
     background: var(--preto);
+    overflow-y: auto;
 }
 
 .centro {
