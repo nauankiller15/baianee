@@ -4,34 +4,36 @@
             <h5 class="plus-margin-bottom top-marg2">ENTRE EM CONTATO</h5>
 
                 <!--  -->
-
-            <form action="contact.php" method="post">
+            <form class="limite-contato" action="contact.php" method="post">
                 <div class="elem-group">
-                    <label for="name">Your Name</label>
-                    <input type="text" id="name" name="visitor_name" placeholder="John Doe" pattern=[A-Z\sa-z]{3,20} required>
+                    <label for="name">Seu Nome</label>
+                    <input type="text" id="name" name="visitor_name" placeholder="Seu Nome" pattern=[A-Z\sa-z]{3,20} required>
                 </div>
                 <div class="elem-group">
-                    <label for="email">Your E-mail</label>
-                    <input type="email" id="email" name="visitor_email" placeholder="john.doe@email.com" required>
+                    <label for="email">Seu E-mail</label>
+                    <input type="email" id="email" name="visitor_email" placeholder="exemplo@email.com" required>
                 </div>
                 <div class="elem-group">
-                    <label for="department-selection">Choose Concerned Department</label>
+                    <label for="department-selection">Escolha um Departamento</label>
                     <select id="department-selection" name="concerned_department" required>
-                        <option value="">Select a Department</option>
-                        <option value="billing">Billing</option>
-                        <option value="marketing">Marketing</option>
-                        <option value="technical support">Technical Support</option>
+                        <option value="">Selecione um Departamento</option>
+                        <option value="gestao-de-trafego">Gestão de Tráfego</option>
+                        <option value="fotografia">Fotografia</option>
+                        <option value="web-design">Mentoria</option>
+                        <option value="web-design">Criação de Sites</option>
+                        <option value="social-media">Social Media</option>
+                        <option value="videos-institucionais">Videos Institucionais</option>
                     </select>
                 </div>
                 <div class="elem-group">
-                    <label for="title">Reason For Contacting Us</label>
-                    <input type="text" id="title" name="email_title" required placeholder="Unable to Reset my Password" pattern=[A-Za-z0-9\s]{8,60}>
+                    <label for="title">Assunto:</label>
+                    <input type="text" id="title" name="email_title" required placeholder="Assunto" pattern=[A-Za-z0-9\s]{8,60}>
                 </div>
                 <div class="elem-group">
-                    <label for="message">Write your message</label>
-                    <textarea id="message" name="visitor_message" placeholder="Say whatever you want." required></textarea>
+                    <label for="message">Escreva sua mensagem</label>
+                    <textarea id="message" name="visitor_message" placeholder="Escreva aqui sua mensagem" required></textarea>
                 </div>
-                <button type="submit">Send Message</button>
+                <button class="enviar" type="submit">Enviar</button>
             </form>
 
             <!--  -->

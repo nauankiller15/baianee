@@ -38,7 +38,6 @@
 <script src="Lib/jquery-3.5.1.min.js"></script>
 <script src="JS/main.js"></script>
 <script src="JS/typed.js"></script>
-<script src="JS/contact-form.js"></script>
 <script src="JS/responsiveGallery.js"></script>
 
 <!-- menu animations -->

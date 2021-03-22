@@ -164,3 +164,25 @@ $('#contatoAbrirResponsv').on('click', function() {
     $("#inicio").fadeOut('600');
     $('#time').fadeOut('600');
 })
+
+
+
+
+
+// 
+// 
+// --------------------------------
+// ANIMAÇÃO PÁGINA SOBRE PARA IR PRA PÁGINA DE CONTATO
+// --------------------------------
+//
+// 
+// 
+// Animação BOTÃO CONTATO Abrir
+// 
+$('#sobreContato').on('click', function() {
+    $('#contatoAbrir').trigger('click');
+
+})
+
+// 
+//

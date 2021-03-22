@@ -343,10 +343,6 @@ textarea {
     margin: 0
 }
 
-button {
-    overflow: visible
-}
-
 button,
 select {
     text-transform: none
@@ -3693,6 +3689,14 @@ blockquote {
     .main-links {
         display: inline-grid;
         align-items: center;
+    }
+    .limite-contato {
+        width: 100%;
+    }
+    input,
+    select,
+    textarea {
+        width: 100%;
     }
     .responsivo-depoimentos {
         width: 200px;
