@@ -192,6 +192,12 @@ div.menu-mobile {
         -ms-transition: all 70ms cubic-bezier(0.000, 0.995, 0.990, 1.000);
         -o-transition: all 70ms cubic-bezier(0.000, 0.995, 0.990, 1.000);
         transition: all 70ms cubic-bezier(0.000, 0.995, 0.990, 1.000);
+        cursor: pointer;
+        transition: 0.4s;
+    }
+    div.menu-mobile ul li:hover {
+        color: var(--branco);
+        transform: translate(0px, -6px);
     }
     div.menu-mobile ul li a {
         color: var(--azul);

@@ -56,36 +56,36 @@
 	}
 
 
-	// 
-	// 
-	// //  
-	// //  
-	// Função boolean para evento touch mobile
-	// 
+	// // 
+	// // 
+	// // //  
+	// // //  
+	// // Função boolean para evento touch mobile
+	// // 
 
 
-	let stopScrolling = false;
+	// let stopScrolling = false;
 
-	window.addEventListener("touchmove", handleTouchMove, {
-	    passive: false
+	// window.addEventListener("touchmove", handleTouchMove, {
+	//     passive: false
 
-	});
+	// });
 
 
-	function handleTouchMove(e) {
-	    if (!stopScrolling) {
-	        return;
-	    }
-	    e.preventDefault();
-	}
+	// function handleTouchMove(e) {
+	//     if (!stopScrolling) {
+	//         return;
+	//     }
+	//     e.preventDefault();
+	// }
 
-	function onTouchStart() {
-	    stopScrolling = true;
-	}
+	// function onTouchStart() {
+	//     stopScrolling = true;
+	// }
 
-	function onTouchEnd() {
-	    stopScrolling = false;
-	}
+	// function onTouchEnd() {
+	//     stopScrolling = false;
+	// }
 
 	//
 	//

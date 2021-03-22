@@ -16,7 +16,6 @@ $('#inicioAbrir').on('click', function() {
     $('#sobre').fadeOut('600');
     $('#footer').fadeIn('600');
     $('#footer2').fadeOut('600');
-    AOS.init();
 
 })
 
@@ -33,7 +32,6 @@ $('#sobreAbrir').on('click', function() {
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
     $('#time').fadeOut("700");
-    AOS.init();
 })
 
 // 
@@ -46,7 +44,6 @@ $('#timeAbrir').on('click', function() {
     $('#sobre').fadeOut('600');
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
-    AOS.init();
 })
 
 // 
@@ -100,7 +97,6 @@ $('#inicioAbrirResponsv').on('click', function() {
     $('#time').fadeOut("700");
     $('#contato').fadeOut('600');
     $('#sobre').fadeOut('600');
-    AOS.init();
 
 })
 
@@ -118,7 +114,6 @@ $('#sobreAbrirResponsv').on('click', function() {
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
     $('#time').fadeOut("700");
-    AOS.init();
 })
 
 // 
@@ -132,5 +127,4 @@ $('#timeAbrirResponsv').on('click', function() {
     $('#sobre').fadeOut('600');
     $("#inicio").fadeOut('600');
     $('#contato').fadeOut('600');
-    AOS.init();
 })
