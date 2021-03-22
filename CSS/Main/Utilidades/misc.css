@@ -3705,9 +3705,9 @@ blockquote {
         margin-top: -14vh;
     }
     .erick {
-        background-size: 91%;
-        padding: 172px;
-        margin-top: -14vh;
+        background-size: 99%;
+        padding: 199px;
+        margin-top: -15vh;
     }
     .gabriel-batata {
         background-size: 80%;
@@ -3738,6 +3738,8 @@ blockquote {
         background: var(--azul);
         line-height: 64px;
         display: inline-block;
+        width: 358px;
+        margin-left: -24vh;
     }
     .upper {
         margin-top: 6vh;
