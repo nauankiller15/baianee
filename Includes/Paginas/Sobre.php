@@ -1,7 +1,7 @@
 <div id="sobre" class="section cta section-2">
     <div class="container-big">
         <div class="content-width">
-            <h5 class="plus-margin-bottom">AGENCIA BAIANÊ</h5>
+            <h5 class="plus-margin-bottom top-marg2">AGENCIA BAIANÊ</h5>
             <p>
                 A nossa equipe está disposta, a todo tempo, a ouvir sugestões, apresentar prévias de resultados e construir com seus clientes a relação mais harmônica possível.
                 Temos como meta ampliar o alcance do nosso serviço, gerando uma rede de clientes satisfeitos e bem representados.
