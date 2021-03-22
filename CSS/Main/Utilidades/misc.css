@@ -3689,71 +3689,6 @@ blockquote {
         background-size: auto, auto, auto, auto;
         background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
     }
-    /*  */
-    /*  */
-    /*  */
-    /* TIME */
-    /*  PESSOAS */
-    .ricardo {
-        background-size: 63%;
-        padding: 195px;
-        margin-top: 10vh;
-    }
-    .marcos {
-        background-size: 76%;
-        padding: 194px;
-        margin-top: -14vh;
-    }
-    .erick {
-        background-size: 99%;
-        padding: 199px;
-        margin-top: -15vh;
-    }
-    .gabriel-batata {
-        background-size: 80%;
-        padding: 196px;
-        margin-top: -11vh;
-    }
-    .nauan {
-        background-size: 75%;
-        padding: 219px;
-        margin-top: -21vh;
-    }
-    /*  */
-    .section-depo {
-        margin-top: 11vh;
-    }
-    .centro-depo {
-        padding: 9px;
-        border-bottom: 2px solid;
-        font-size: 52px;
-        width: 100%;
-    }
-    .depoimento-hud span {
-        border-bottom: 6px solid;
-        padding: 3px;
-        font-weight: 500;
-        font-size: 32px;
-        color: var(--preto);
-        background: var(--azul);
-        line-height: 64px;
-        display: inline-block;
-        width: 358px;
-        margin-left: -24vh;
-        text-shadow: 0 1px 0 var(--branco), 0 0 10px var(--azul);
-        box-shadow: 0 1px 0 var(--branco);
-    }
-    .upper {
-        margin-top: 6vh;
-        background: var(--azul);
-        text-transform: uppercase;
-        border-top: 11px solid;
-        width: 26vh;
-        padding: 6px;
-    }
-    /*  */
-    /*  */
-    /*  */
     .main-links {
         display: inline-grid;
         align-items: center;
@@ -3827,6 +3762,7 @@ blockquote {
         line-height: 45px;
     }
     .container-banner {
+        width: 100%;
         margin-top: 0vw;
         margin-right: 4vw;
         margin-left: 4vw;
@@ -4200,7 +4136,7 @@ blockquote {
         line-height: 44px
     }
     .content-half.c-footer {
-        min-height: 490px
+        min-height: 400px
     }
     ._3d-content {
         margin: 30px 10px
@@ -4261,7 +4197,98 @@ blockquote {
     }
 }
 
+@media screen and (max-width:768px) {
+    .depoimento-hud span {
+        padding: 3px;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 64px;
+        display: inline-block;
+        width: 358px;
+        margin-left: 0vh;
+    }
+    .upper {
+        margin-top: 32vh;
+        background: var(--azul);
+        text-transform: uppercase;
+        border-top: 11px solid;
+        width: 35vh;
+        padding: 6px;
+    }
+}
+
+@media screen and (max-width:620px) {
+    /*  */
+    /*  */
+    /*  */
+    /* TIME */
+    /*  PESSOAS */
+    .ricardo {
+        background-size: 63%;
+        padding: 195px;
+        margin-top: 10vh;
+    }
+    .marcos {
+        background-size: 76%;
+        padding: 194px;
+        margin-top: -14vh;
+    }
+    .erick {
+        background-size: 99%;
+        padding: 199px;
+        margin-top: -15vh;
+    }
+    .gabriel-batata {
+        background-size: 80%;
+        padding: 196px;
+        margin-top: -11vh;
+    }
+    .nauan {
+        background-size: 75%;
+        padding: 219px;
+        margin-top: -21vh;
+    }
+    /*  */
+    .section-depo {
+        margin-top: 14vh;
+    }
+    .centro-depo {
+        padding: 9px;
+        border-bottom: 2px solid;
+        font-size: 52px;
+        width: 100%;
+    }
+    .depoimento-hud span {
+        border-bottom: 6px solid;
+        padding: 3px;
+        font-weight: 500;
+        font-size: 32px;
+        color: var(--preto);
+        background: var(--azul);
+        line-height: 64px;
+        display: inline-block;
+        width: 358px;
+        margin-left: -24vh;
+        text-shadow: 0 1px 0 var(--branco), 0 0 10px var(--azul);
+        box-shadow: 0 1px 0 var(--branco);
+    }
+    .upper {
+        margin-top: 6vh;
+        background: var(--azul);
+        text-transform: uppercase;
+        border-top: 11px solid;
+        width: 26vh;
+        padding: 6px;
+    }
+    /*  */
+    /*  */
+    /*  */
+}
+
 @media screen and (max-width:375px) {
+    .section-depo {
+        margin-top: 16vh;
+    }
     .ricardo {
         background-size: 72%;
         padding: 159px;

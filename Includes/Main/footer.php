@@ -54,4 +54,6 @@
 <script>
 	AOS.init();
 	MenuAtivo();
+	onTouchStart();
+	onTouchEnd();
 </script>
