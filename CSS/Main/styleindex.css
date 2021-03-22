@@ -52,6 +52,10 @@ h6 {
     margin-top: 0;
 }
 
+.top-marg {
+    margin-top: 60px;
+}
+
 a {
     color: #fff;
     text-decoration: none;
