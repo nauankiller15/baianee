@@ -3700,6 +3700,12 @@ blockquote {
     .limite-contato {
         width: 100%;
     }
+    .content-width {
+        width: 72%;
+        background: #101010;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
     input,
     select,
     textarea {
