@@ -19,7 +19,7 @@
                 </div>
                 <nav class="add-menu w-dropdown-list" id="w-dropdown-list-4" aria-labelledby="w-dropdown-toggle-4">
                     <h1 class="social-tit">Midias Sociais:</h1>
-                    <a href="#" target="_blank" class="add-link w-inline-block" tabindex="0"><i class="fab fa-whatsapp sidebar-icon"></i>
+                    <a href="https://wa.me/message/YYTYX6HFNW6JC1" target="_blank" class="add-link w-inline-block" tabindex="0"><i class="fab fa-whatsapp sidebar-icon"></i>
                         <div class="sidebar-link-text">Whatsapp</div>
                     </a><a href="https://www.instagram.com/baianeagencia/" target="_blank" class="add-link w-inline-block" tabindex="0"><i class="fab fa-instagram sidebar-icon"></i>
                         <div class="sidebar-link-text">Instagram</div>

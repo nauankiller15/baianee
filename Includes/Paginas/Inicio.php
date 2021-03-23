@@ -7,7 +7,7 @@
                 <i class="fab fa-facebook-f"></i></a>
             <a href="https://www.instagram.com/baianeagencia/" target="_blank" class="vertical-link">
                 <i class="fab fa-instagram"></i></a>
-            <a href="#" target="_blank" class="vertical-link">
+            <a href="https://wa.me/message/YYTYX6HFNW6JC1" target="_blank" class="vertical-link">
                 <i class="fab fa-whatsapp"></i></i></a>
         </div>
         <div class="info-right">
