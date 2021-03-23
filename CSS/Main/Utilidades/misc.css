@@ -152,6 +152,11 @@
     max-width: 100%;
 }
 
+.w-inline-block2 {
+    max-width: 100%;
+    float: right;
+}
+
 .add-menu {
     bottom: 0px;
 }
@@ -2675,10 +2680,9 @@ blockquote {
 
 .section.cta {
     background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, #000), to(transparent)), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
-    background-image: linear-gradient( 90deg, #000 25%, transparent), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
-    background-position: 0 0, 100.5% 0%;
-    background-size: 100%, 50%;
-    background-repeat: repeat, no-repeat;
+    background-image: url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI), url(https://1.bp.blogspot.com/-4Vz6lYao22M/YE0jaytvt8I/AAAAAAAAG1c/WS9HFbV_6bwB4K1m6J2OYunu_u0ShC8JgCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes.png);
+    background-position: 100% 0%, 0 86%;
+    background-repeat: no-repeat, no-repeat;
     animation: transicoes 3.5s ease-in-out infinite;
 }
 
@@ -2730,7 +2734,7 @@ blockquote {
     margin-right: 7vw;
     margin-left: 7vw;
     padding-top: 150px;
-    padding-bottom: 150px
+    padding-bottom: 180px;
 }
 
 .container-big p {
@@ -2985,7 +2989,10 @@ blockquote {
 }
 
 .content-width {
-    width: 70%
+    width: 80%;
+    background: #101010;
+    padding-left: 40px;
+    padding-bottom: 40px;
 }
 
 .content-left-right {
