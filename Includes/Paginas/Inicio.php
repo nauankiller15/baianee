@@ -116,11 +116,9 @@
         </div>
     </div>
     <div id="Depoimentos" data-aos="zoom-in-up" data-aos-duration="900">
-        <div data-speed="1" class=" friends-section">
-
+        <div class=" friends-section">
             <div class="container-small">
                 <h3 style="opacity: 1;" class="margem-depo center-width">Depoimentos</h3>
-
                 <!--  -->
                 <div class="w-gallery">
                     <section id="responsiveGallery-container" class="responsiveGallery-container">
@@ -155,11 +153,9 @@
                     </section>
                 </div>
                 <!--  -->
-
                 <div data-aos="fade-right" class="depoimentos-caixa">
                     <ul>Nós Agradeçemos sua Preferência</ul>
                 </div>
-
             </div>
         </div>
     </div>

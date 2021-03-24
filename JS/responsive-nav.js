@@ -5,7 +5,7 @@ $('div.burger').on('click', function() {
 });
 
 
-$('div.menu-mobile ul li').on('click', function() {
+$('div.menu-mobile li').on('click', function() {
     closeMenu();
 });
 
