@@ -2,10 +2,10 @@
     <div class="circle"></div>
     <div class="menu-mobile">
         <ul>
-            <li id="inicioAbrirResponsv"><a>Inicio</a></li>
-            <li id="sobreAbrirResponsv"><a>Sobre</a></li>
-            <li id="timeAbrirResponsv"><a>Time</a></li>
-            <li id="contatoAbrirResponsv"><a>Contato</a></li>
+            <li id="inicioAbrirResponsv"><i style="margin-right: 6px;" class="fas fa-home"></i>Inicio</li>
+            <li id="sobreAbrirResponsv"><i style="margin-right: 6px;" class="fas fa-info"></i> Sobre</li>
+            <li id="timeAbrirResponsv"><i style="margin-right: 6px;" class="fas fa-users"></i> Time</li>
+            <li id="contatoAbrirResponsv"><i style="margin-right: 6px;" class="fas fa-id-badge"></i> Contato</li>
 
         </ul>
     </div>

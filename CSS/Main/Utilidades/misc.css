@@ -2940,6 +2940,7 @@ blockquote {
 .friends-section {
     background-image: url(https://1.bp.blogspot.com/-p49BZYTdk0E/YE0-qjQIAbI/AAAAAAAAG10/ZV-DO2Atsb0rjqo6vUxbw7-nMofZdaiPwCLcBGAsYHQ/s0/bbb-fundo.png);
     background-size: cover;
+    overflow: hidden;
 }
 
 .friends-section.black-image {
@@ -3700,12 +3701,13 @@ blockquote {
     .limite-contato {
         width: 100%;
     }
-    .content-width {
-        width: 72%;
-        background: #101010;
-        padding-left: 0px;
-        padding-bottom: 0px;
+    /*  */
+    /* PÁGINA DE EQUIPE */
+    .upper {
+        padding: 10px;
+        margin-top: 4vh;
     }
+    /*  */
     input,
     select,
     textarea {
@@ -3809,7 +3811,7 @@ blockquote {
     .container-big,
     .container-small-grid {
         padding-top: 100px;
-        padding-bottom: 100px
+        padding-bottom: 150px;
     }
     .content-holder {
         margin-bottom: 60px
@@ -3876,6 +3878,9 @@ blockquote {
     }
     .content-width {
         width: 100%;
+        padding-left: 0px;
+        padding-bottom: 0px;
+        background: transparent;
     }
     .content-width-depoimentos {
         width: 100%;
@@ -3904,8 +3909,7 @@ blockquote {
         margin-right: 4vw;
         margin-left: 4vw;
         padding-top: 80px;
-        padding-bottom: 62px;
-        text-align: left;
+        padding-bottom: 110px;
     }
     .menu-block {
         -webkit-transform-origin: 4vw 50px;
@@ -4032,7 +4036,6 @@ blockquote {
     .container-faq,
     .container-small-grid {
         padding-top: 80px;
-        padding-bottom: 80px
     }
     .sticky-heading {
         position: static

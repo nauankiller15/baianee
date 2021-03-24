@@ -19,7 +19,7 @@
                 Inovação.
 
             </p>
-            <a id="sobreContato" class="link w-inline-block2 top-marg">
+            <a id="sobreContato" class="top-marg link w-inline-block2">
                 <div>Entre em contato conosco!</div>
             </a>
         </div>
