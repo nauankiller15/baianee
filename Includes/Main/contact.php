@@ -64,9 +64,11 @@ if ($_POST) {
 
     $email_body .= "</div>";
 
-    $headers  = 'MIME-Version: 1.0' . "\r\n"
-        . 'Content-type: text/html; charset=utf-8' . "\r\n"
-        . 'De: ' . $visitor_email . "\r\n";
+    $headers =  'MIME-Version: 1.0' . "\r\n";
+    $headers .= 'From: Your name <info@address.com>' . "\r\n";
+    $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+
+    mail($to, $subject, $body, $headers);
 
     if (mail($recipient, $email_title, $email_body, $headers)) {
         echo "<p>Obrigado por ter entrado em contato conosco, $visitor_name. Você receberá uma resposta em um prazo de até 24 horas.</p>";
