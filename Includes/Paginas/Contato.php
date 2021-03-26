@@ -4,7 +4,7 @@
             <h5 class="plus-margin-bottom top-marg2">ENTRE EM CONTATO</h5>
 
                 <!--  -->
-            <form class="limite-contato" action="contact.php" method="post">
+            <form class="limite-contato" action="./Includes/Main/contact.php" method="post">
                 <div class="elem-group">
                     <label for="name">Seu Nome</label>
                     <input type="text" id="name" name="visitor_name" placeholder="Seu Nome" pattern=[A-Z\sa-z]{3,20} required>
@@ -19,7 +19,7 @@
                         <option value="">Selecione um Departamento</option>
                         <option value="gestao-de-trafego">Gestão de Tráfego</option>
                         <option value="fotografia">Fotografia</option>
-                        <option value="web-design">Mentoria</option>
+                        <option value="mentoria">Mentoria</option>
                         <option value="web-design">Criação de Sites</option>
                         <option value="social-media">Social Media</option>
                         <option value="videos-institucionais">Videos Institucionais</option>
