@@ -12,6 +12,13 @@
     margin-bottom: 2vh;
 }
 
+.contato-formulario {
+    margin-top: -45px;
+    font-weight: 400;
+    font-size: 3vh;
+    margin-bottom: -41px;
+}
+
 .call-buttons {
     margin: -110px auto;
     position: absolute;
