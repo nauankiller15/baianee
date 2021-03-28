@@ -16,7 +16,7 @@
                 </a>
             </div>
             <!--  -->
-            <h1 class="contato-formulario">Preenncha o formulário:</h1>
+            <h1 class="contato-formulario">Ou preenncha o formulário:</h1>
             <form class="limite-contato" action="./Includes/Main/contact.php" method="post">
                 <div class="elem-group">
                     <label for="name">Seu Nome:</label>
