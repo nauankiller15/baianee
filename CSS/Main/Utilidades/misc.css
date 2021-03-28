@@ -3621,6 +3621,41 @@ blockquote {
     }
 }
 
+@media screen and (max-width:1100px) {
+    /*  */
+    /*  */
+    /* PÁGINA DE EQUIPE */
+    .upper {
+        margin-top: 4vh;
+    }
+    .ricardo {
+        margin-top: 12vh;
+    }
+    .marcos {
+        margin-top: -11vh;
+    }
+    .erick {
+        margin-top: -11vh;
+    }
+    .gabriel-batata {
+        margin-top: -5vh;
+    }
+    .nauan {
+        margin-top: -12vh;
+    }
+    /*  */
+    /*  */
+    /* PÁGINA DE CONTATO */
+    .call-buttons {
+        border-bottom: 1px solid var(--branco);
+        padding-bottom: 30px;
+        margin: 10px 15px auto;
+        position: static;
+    }
+    /*  */
+    /*  */
+}
+
 
 /* RESPONSIVO MOBILE CSS */
 
@@ -4000,7 +4035,7 @@ blockquote {
 
 @media screen and (max-width:767px) {
     h1 {
-        font-size: 65px;
+        font-size: 64px;
         line-height: 85px
     }
     h2 {
@@ -4133,7 +4168,7 @@ blockquote {
         -webkit-box-direction: normal
     }
     h1 {
-        font-size: 50px;
+        font-size: 48px;
         line-height: 70px
     }
     h2 {
@@ -4238,9 +4273,6 @@ blockquote {
 }
 
 @media screen and (max-width:620px) {
-    /*  */
-    /*  */
-    /*  */
     /* TIME */
     /*  PESSOAS */
     .ricardo {
@@ -4303,6 +4335,11 @@ blockquote {
     /*  */
     /*  */
     /*  */
+    .container-big,
+    .container-small-grid {
+        padding-top: 100px;
+        padding-bottom: 66px;
+    }
 }
 
 @media screen and (max-width:375px) {

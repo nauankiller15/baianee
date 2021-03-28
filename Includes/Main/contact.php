@@ -1,12 +1,32 @@
 <?php
 
 if ($_POST) {
+    
+    require_once("phpmailer/class.phpmailer.php");
+
+$mail = new PHPMailer();
+$mail->isSMTP();
+$mail->SMTPAuth = true;
+$mail->SMTPSecure = 'ssl';
+$mail->Host = 'smtp.gmail.com';
+$mail->Port = 465;
+$mail->isHTML(true);
+$mail->Username = 'nauanxdesign@gmail.com';
+$mail->Password = 'bananaverde1234';
+$mail->SetFrom('no-reply@baiane.com');
+$mail->Subject = $email_title;
+$mail->Body = $email_body;
+$mail->addAddress = $visitor_email;
+
+
     $visitor_name = "";
     $visitor_email = "";
     $email_title = "";
     $concerned_department = "";
     $visitor_message = "";
     $email_body = "<div>";
+    
+    $mail->Send();
 
     if (isset($_POST['visitor_name'])) {
         $visitor_name = filter_var($_POST['visitor_name'], FILTER_SANITIZE_STRING);
