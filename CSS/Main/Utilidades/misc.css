@@ -2652,7 +2652,7 @@ blockquote {
 
 .section-steps {
     background-image: url(https://1.bp.blogspot.com/-O-fdclb9NeE/YE0WA00m5TI/AAAAAAAAG1M/c3xV_ee5lwMxaPoJVvyxni7ChVTSwAWaACLcBGAsYHQ/s0/arestas%2Be%2Bshapes.png), url(https://1.bp.blogspot.com/-4Vz6lYao22M/YE0jaytvt8I/AAAAAAAAG1c/WS9HFbV_6bwB4K1m6J2OYunu_u0ShC8JgCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes.png);
-    background-position: 100% 0, 0 60%;
+    background-position: 100% 0, 0 11%;
     background-size: auto, auto;
     background-repeat: no-repeat, no-repeat;
     overflow: hidden;
@@ -3643,6 +3643,9 @@ blockquote {
     .nauan {
         margin-top: -12vh;
     }
+    .joao-caetano {
+        margin-top: -12vh;
+    }
     /*  */
     /*  */
     /* PÁGINA DE CONTATO */
@@ -4305,6 +4308,11 @@ blockquote {
         padding: 200px;
         margin-top: -40vh;
     }
+    .joao-caetano {
+        background-size: 75%;
+        padding: 200px;
+        margin-top: -25vh;
+    }
     .profile-picture {
         width: 380px;
         height: 401px;
@@ -4314,6 +4322,7 @@ blockquote {
         background: var(--azul);
         margin-left: -25vh;
     }
+    /*  */
     /*  */
     .section-depo {
         margin-top: 14vh;
@@ -4388,6 +4397,11 @@ blockquote {
         margin-top: -40vh;
     }
     .nauan {
+        background-size: 75%;
+        padding: 164px;
+        margin-top: -40vh;
+    }
+    .joao-caetano {
         background-size: 75%;
         padding: 164px;
         margin-top: -40vh;

@@ -54,9 +54,18 @@
                         <h1 class="preto upper margem-titulo">Nauan</h1>
                         <span>Web Designer</span>
                     </div>
-
+                    <!--  -->
                 </li>
-                <!--  -->
+                <li>
+                    <div data-aos="zoom-in-up" data-aos-duration="900" class="joao-caetano">
+                        <div class="profile-picture landscape joao-scape">
+                            <img src="https://1.bp.blogspot.com/-YsRBcYqMvfc/YG-QFpnGdbI/AAAAAAAAG-Y/BEwr2KqXkU0wCr5Dg-zJTsJxD4uJKaa7gCLcBGAsYHQ/s0/Jo%25C3%25A3o%2BCaetano.png">
+                        </div>
+                        <h1 class="preto upper margem-titulo">João Caetano</h1>
+                        <span>Pesquisador & Redator</span>
+                    </div>
+                    <!--  -->
+                </li>
             </div>
         </div>
     </div>

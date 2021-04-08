@@ -1,15 +1,14 @@
 .container-big-depoimentos {
     padding-top: 85px;
-    padding-bottom: 150px;
     background-image: url(https://1.bp.blogspot.com/-RKeeERC40As/YFZ97GPOaHI/AAAAAAAAG7s/iK15fVQbHRABlV7epyMMrdbt57WJtQERACLcBGAsYHQ/s0/arestas-fundo-circulos-equipe.png), url(https://1.bp.blogspot.com/-DY3gZAzsT9I/YFZ9pnUkyXI/AAAAAAAAG7c/LekTgES2RLwSVva18LJ4F_qd2zo-Mo6PACLcBGAsYHQ/s0/arestas-equipe.png), url(https://1.bp.blogspot.com/-zlyPg3cf9Q4/YFaA3rRflWI/AAAAAAAAG70/2vREqOBqJ1shfkhjxEze864KbEwrrA2sgCLcBGAsYHQ/s0/arestas-equipe2.png), url(https://1.bp.blogspot.com/-b77hDlPNZGo/YFaDKoaPDkI/AAAAAAAAG78/wp0TTzNEr549Q_bWXnG1INdKNMpXMDgnQCLcBGAsYHQ/s0/circulos.png), url(https://1.bp.blogspot.com/-E94JTPrGT08/YFZ90S3R0SI/AAAAAAAAG7k/-gjG6oQ39sUn4M26aK3ozDoOzonv3wTzwCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes%2Bequipe.png), url(https://1.bp.blogspot.com/-RKeeERC40As/YFZ97GPOaHI/AAAAAAAAG7s/iK15fVQbHRABlV7epyMMrdbt57WJtQERACLcBGAsYHQ/s0/arestas-fundo-circulos-equipe.png);
-    background-position: 0 15%, 100% 0, 160% 20%, 82% 94%, 0 50%, 0 95%, 0px 100%;
+    background-position: 0 15%, 100% 0, 160% 20%, 94% 95%, 0 50%, 0 95%, 0px 100%;
     background-size: auto, auto, auto, auto, auto, auto;
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
 }
 
 .content-width-depoimentos {
     width: 100%;
-    margin-left: 10vh;
+    margin-left: 14vh;
 }
 
 .section-depo {
@@ -61,9 +60,13 @@
 
 .landscape img {
     height: 100%;
-    left: -8px;
-    bottom: -7px;
+    left: 16px;
+    bottom: -6px;
     position: relative;
+}
+
+.joao-scape img {
+    left: 52px;
 }
 
 .ricardo {
@@ -98,6 +101,12 @@
     margin-top: -32vh;
 }
 
+.joao-caetano {
+    background-size: 38%;
+    padding: 150px;
+    margin-top: -25vh;
+}
+
 
 /*  */
 
@@ -121,29 +130,7 @@
     font-size: 40px;
     color: var(--preto);
     background: var(--azul);
-    line-height: 74px;
+    line-height: 75px;
     text-shadow: 0 2px 0 var(--branco), 0 0 10px var(--azul);
     box-shadow: 0 2px 0 var(--branco);
-}
-
-@media screen and (min-width:1900px) {
-    .upper {
-        margin-top: 65vh;
-        margin-left: -3vh;
-        text-transform: uppercase;
-        border-top: 18px solid;
-        width: 59vh;
-    }
-    .gabriel-batata {
-        background-size: 42%;
-        margin-top: 0vh;
-    }
-    .erick {
-        background-size: 45%;
-        margin-top: 9vh;
-    }
-    .nauan {
-        background-size: 38%;
-        margin-top: -21vh;
-    }
 }
