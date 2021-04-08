@@ -2259,7 +2259,7 @@ h1 {
     -webkit-transform-origin: 0 0;
     -ms-transform-origin: 0 0;
     transform-origin: 0 0;
-    font-size: 95px;
+    font-size: 89px;
     line-height: 110px;
     letter-spacing: -.5px
 }
@@ -4344,7 +4344,7 @@ blockquote {
         border-top: 11px solid;
         width: 100vh;
         padding: 6px;
-        text-align: none;
+        text-align: left;
     }
     /*  */
     /*  */
