@@ -38,7 +38,7 @@
     transition: box-shadow 200ms ease, background-color 100ms ease, -webkit-transform 200ms ease;
     transition: box-shadow 200ms ease, transform 200ms ease, background-color 100ms ease;
     transition: box-shadow 200ms ease, transform 200ms ease, background-color 100ms ease, -webkit-transform 200ms ease;
-    font-size: 42px;
+    font-size: 56px;
     transition: 0.4s;
     border-radius: 45px;
     height: 60px;
@@ -2259,8 +2259,8 @@ h1 {
     -webkit-transform-origin: 0 0;
     -ms-transform-origin: 0 0;
     transform-origin: 0 0;
-    font-size: 130px;
-    line-height: 150px;
+    font-size: 95px;
+    line-height: 110px;
     letter-spacing: -.5px
 }
 
@@ -4282,28 +4282,37 @@ blockquote {
     /*  PESSOAS */
     .ricardo {
         background-size: 63%;
-        padding: 195px;
-        margin-top: 10vh;
+        padding: 200px;
+        margin-top: -20vh;
     }
     .marcos {
         background-size: 76%;
-        padding: 194px;
-        margin-top: -14vh;
+        padding: 200px;
+        margin-top: -40vh;
     }
     .erick {
         background-size: 99%;
-        padding: 199px;
-        margin-top: -15vh;
+        padding: 200px;
+        margin-top: -40vh;
     }
     .gabriel-batata {
         background-size: 80%;
-        padding: 196px;
-        margin-top: -11vh;
+        padding: 200px;
+        margin-top: -40vh;
     }
     .nauan {
         background-size: 75%;
-        padding: 219px;
-        margin-top: -21vh;
+        padding: 200px;
+        margin-top: -40vh;
+    }
+    .profile-picture {
+        width: 380px;
+        height: 401px;
+        border-radius: 50%;
+        border: 18px solid var(--preto);
+        overflow: hidden;
+        background: var(--azul);
+        margin-left: -25vh;
     }
     /*  */
     .section-depo {
@@ -4330,12 +4339,12 @@ blockquote {
         box-shadow: 0 1px 0 var(--branco);
     }
     .upper {
-        margin-top: 6vh;
-        background: var(--azul);
-        text-transform: uppercase;
+        margin-left: -24vh;
+        margin-top: 2vh;
         border-top: 11px solid;
-        width: 26vh;
+        width: 100vh;
         padding: 6px;
+        text-align: none;
     }
     /*  */
     /*  */
@@ -4348,27 +4357,52 @@ blockquote {
 }
 
 @media screen and (max-width:375px) {
+    .upper {
+        margin-top: 6vh;
+        border-top: 11px solid;
+        width: 100vh;
+        padding: 6px;
+        margin-left: -24vh;
+    }
     .section-depo {
         margin-top: 16vh;
     }
     .ricardo {
-        background-size: 72%;
-        padding: 159px;
-        margin-top: 10vh;
+        background-size: 63%;
+        padding: 164px;
+        margin-top: -20vh;
     }
     .marcos {
         background-size: 76%;
-        padding: 156px;
-        margin-top: -14vh;
+        padding: 164px;
+        margin-top: -40vh;
+    }
+    .erick {
+        background-size: 99%;
+        padding: 164px;
+        margin-top: -40vh;
     }
     .gabriel-batata {
-        background-size: 78%;
-        padding: 169px;
-        margin-top: -9vh;
+        background-size: 80%;
+        padding: 164px;
+        margin-top: -40vh;
     }
     .nauan {
         background-size: 75%;
-        padding: 189px;
-        margin-top: -6vh;
+        padding: 164px;
+        margin-top: -40vh;
+    }
+    /*  */
+    .profile-picture {
+        width: 300px;
+        height: 285px;
+        border-radius: 50%;
+        margin-left: -25vh;
+    }
+    .landscape img {
+        height: 100%;
+        left: 31px;
+        bottom: -7px;
+        position: relative;
     }
 }

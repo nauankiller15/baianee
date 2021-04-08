@@ -169,7 +169,6 @@
 /*  */
 
 .ricardo {
-    background: url(https://1.bp.blogspot.com/-B-EHuCqqLLM/YFAfd21BqwI/AAAAAAAAG6c/0evFewMdv68FBrH6KOv7LSlrX6nu36xGQCLcBGAsYHQ/s0/Ricardo.png) no-repeat;
     background-size: 100%;
     padding: 300px;
     margin-top: 3vh;
@@ -212,3 +211,43 @@
     right: -69vh;
     position: absolute;
 }
+
+
+/* BACKUP DA PÁGINA ANTIGA */
+
+.ricardo {
+    background: url(https://1.bp.blogspot.com/-B-EHuCqqLLM/YFAfd21BqwI/AAAAAAAAG6c/0evFewMdv68FBrH6KOv7LSlrX6nu36xGQCLcBGAsYHQ/s0/Ricardo.png) no-repeat;
+    background-size: 42%;
+    padding: 300px;
+}
+
+.marcos {
+    background: url(https://1.bp.blogspot.com/-h0xeHX3TE2Y/YFA3vMUST2I/AAAAAAAAG7A/uQwLsY1ddHITgGIYsb24wcASl8Z-w870ACLcBGAsYHQ/s0/Marcos.png) no-repeat;
+    background-size: 48%;
+    padding: 300px;
+    margin-top: 0vh;
+}
+
+.erick {
+    background: url(https://1.bp.blogspot.com/-3nJA7mn6EEE/YFAflYQ5A3I/AAAAAAAAG6g/uacxEsyUnxMk2BpdxO82VGazR2DToGP0QCLcBGAsYHQ/s0/Erick.png) no-repeat;
+    background-size: 52%;
+    padding: 300px;
+    margin-top: -2vh;
+}
+
+.gabriel-batata {
+    background: url(https://1.bp.blogspot.com/-8iguvvYF9to/YFAfxLHCelI/AAAAAAAAG6s/tPAu7_zTXXMCI40-V2l2edIGg29pTVjXwCLcBGAsYHQ/s0/Gabriel%2BBatata.png) no-repeat;
+    background-size: 42%;
+    padding: 300px;
+    margin-top: 0vh;
+}
+
+.nauan {
+    background: url(https://1.bp.blogspot.com/-H3DhuUH7F60/YFAf2BtsL_I/AAAAAAAAG6w/-ly4SbXUveAwweDwES7iwu1P6EePAFzjACLcBGAsYHQ/s0/Nauan.png) no-repeat;
+    background-size: 38%;
+    padding: 250px;
+    margin-top: -10vh;
+}
+
+
+/*  */

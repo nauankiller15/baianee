@@ -1,3 +1,4 @@
+
 <div id="contato" class="section cta section-2">
     <div class="container-big">
         <div class="content-width">
@@ -17,7 +18,7 @@
             </div>
             <!--  -->
             <h1 class="contato-formulario">Ou preenncha o formulário:</h1>
-            <form class="limite-contato" action="./Includes/Main/contact.php" method="post">
+            <form class="limite-contato" action="contact.php" method="post">
                 <div class="elem-group">
                     <label for="name">Seu Nome:</label>
                     <input type="text" id="name" name="visitor_name" placeholder="Seu Nome" pattern=[A-Z\sa-z]{3,20} required>
@@ -40,7 +41,7 @@
                 </div>
                 <div class="elem-group">
                     <label for="title">Assunto:</label>
-                    <input type="text" id="title" name="email_title" required placeholder="Assunto" pattern=[A-Za-z0-9\s]{8,60}>
+                    <input type="text" id="title" name="email_title" required placeholder="Assunto" required>
                 </div>
                 <div class="elem-group">
                     <label for="message">Escreva sua mensagem:</label>
