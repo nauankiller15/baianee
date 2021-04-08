@@ -9,12 +9,12 @@
                             <img src="https://1.bp.blogspot.com/-B-EHuCqqLLM/YFAfd21BqwI/AAAAAAAAG6c/0evFewMdv68FBrH6KOv7LSlrX6nu36xGQCLcBGAsYHQ/s0/Ricardo.png">
                         </div>
                         <h1 class="preto upper margem-titulo">Ricardo</h1>
-                        <span>CEO & Designer Executivo</span>
+                        <span>CEO & Dir. Executivo</span>
                     </div>
                 </li>
                 <!--  -->
                 <li>
-                    <div class="marcos">
+                    <div data-aos="fade-right" data-aos-duration="900" class="marcos">
                         <div class="profile-picture landscape">
                             <img src="https://1.bp.blogspot.com/-B6A6yRd-fgE/YG5Xqhmv6tI/AAAAAAAAG-A/2o4_wu0GDC0VFQO8ln4Y9YMFPEN2CqNeACLcBGAsYHQ/s0/Marcos.png">
                         </div>

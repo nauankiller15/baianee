@@ -121,18 +121,18 @@
 
 @keyframes animMarcos {
     from {
-        transform: translateY(0);
+        transform: translateY(1000px);
     }
     to {
-        transform: translateY(100px);
+        transform: translateY(0);
     }
 }
 
-@keyframes animMarcos {
+@keyframes animRicardo {
     from {
-        transform: translateY(0);
+        transform: translateY(1000px);
     }
     to {
-        transform: translateY(100px);
+        transform: translateY(0);
     }
 }
