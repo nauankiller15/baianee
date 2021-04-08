@@ -118,3 +118,21 @@
         transform: translateY(100px);
     }
 }
+
+@keyframes animMarcos {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(100px);
+    }
+}
+
+@keyframes animMarcos {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(100px);
+    }
+}

@@ -39,8 +39,8 @@
     margin-top: 1vh;
     margin-left: 0vh;
     text-transform: uppercase;
-    border-top: 18px solid;
-    width: 100%;
+    border-top: 0px solid;
+    width: 40vh;
     background: var(--azul);
     color: #000000;
     text-shadow: 0 3px 0 var(--branco), 0 0 10px var(--azul);
@@ -69,12 +69,15 @@
 .ricardo {
     background-size: 42%;
     padding: 150px;
+    margin-top: -10vh;
+    animation: animMarcos 1.2s ease-in-out;
 }
 
 .marcos {
     background-size: 48%;
     padding: 150px;
-    margin-top: 0vh;
+    margin-top: -15vh;
+    animation: animMarcos 1.2s ease-in-out;
 }
 
 .erick {
@@ -108,7 +111,7 @@
     list-style: none;
     margin-top: 2vh;
     display: inline-grid;
-    width: 550px;
+    width: 580px;
 }
 
 .depoimento-hud span {
