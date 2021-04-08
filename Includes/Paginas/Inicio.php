@@ -13,7 +13,7 @@
         <div class="info-right">
             <div>Salvador - BA</div>
             <div class="middle-line"></div>
-            <div class="coordinates">Baianêe&nbsp;<span class="coordinates-text-span">©</div>
+            <div class="coordinates">Baianê&nbsp;<span class="coordinates-text-span">©</div>
         </div>
     </div>
 
