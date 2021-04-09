@@ -174,6 +174,12 @@
     margin-top: 2vh;
     display: inline-grid;
     width: 580px;
+    transition: 0.5s;
+    cursor: default;
+}
+
+.depoimento-hud li:hover {
+    transform: translate(0px, -10px);
 }
 
 .depoimento-hud span {
