@@ -118,7 +118,7 @@
     <div id="Depoimentos" data-aos="zoom-in-up" data-aos-duration="900">
         <div class=" friends-section">
             <div class="container-small">
-                <h3 style="opacity: 1;" class="margem-depo center-width">Depoimentos</h3>
+                <h3 data-aos="fade-left" data-aos-duration="900" style="opacity: 1;" class="margem-depo center-width">Depoimentos</h3>
                 <div class="w-gallery">
                     <section id="responsiveGallery-container" class="responsiveGallery-container">
                         <a class="responsiveGallery-btn responsiveGallery-btn_prev" href="javascript:void(0);"></a>
