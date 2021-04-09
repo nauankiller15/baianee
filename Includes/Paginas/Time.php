@@ -6,7 +6,7 @@
                 <li>
                     <div class="ricardo">
                         <div class="profile-picture landscape">
-                            <img src="https://1.bp.blogspot.com/-B-EHuCqqLLM/YFAfd21BqwI/AAAAAAAAG6c/0evFewMdv68FBrH6KOv7LSlrX6nu36xGQCLcBGAsYHQ/s0/Ricardo.png">
+                            <img src="https://1.bp.blogspot.com/-RzqmEF2v1N0/YG-0abU-BCI/AAAAAAAAG_w/Sj3an4jYWF4wAnOsr8E6AS_LoLXGF74IACLcBGAsYHQ/s0/Ricardo.png">
                         </div>
                         <h1 class="preto upper margem-titulo">Ricardo</h1>
                         <span>CEO & Dir. Executivo</span>
@@ -41,7 +41,7 @@
                 <li>
                     <div data-aos="fade-right" data-aos-duration="900" class="gabriel-batata">
                         <div class="profile-picture landscape">
-                            <img src="https://1.bp.blogspot.com/-8iguvvYF9to/YFAfxLHCelI/AAAAAAAAG6s/tPAu7_zTXXMCI40-V2l2edIGg29pTVjXwCLcBGAsYHQ/s0/Gabriel%2BBatata.png">
+                            <img src="https://1.bp.blogspot.com/-NJuOUKLkBsg/YG-3ky4GGTI/AAAAAAAAHAI/r6ifVYdVS9MxTxi9fJAb7hq6RkZxfPkiACLcBGAsYHQ/s0/Gabriel%2BBatata.png">
                         </div>
                         <h1 class="preto upper margem-titulo">Gabriel Batata</h1>
                         <span>Editor Audiovisual</span>
@@ -57,7 +57,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">Nauan</h1>
                         <span>Web Designer</span>
-                        <i class="tag-job job4 fas fa-palette"></i>
+                        <i class="tag-job job4 fas fa-laptop-code"></i>
                     </div>
                     <!--  -->
                 </li>
