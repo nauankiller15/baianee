@@ -4283,6 +4283,14 @@ blockquote {
 @media screen and (max-width:620px) {
     /* TIME */
     /*  PESSOAS */
+    .job1,
+    .job2,
+    .job3,
+    .job4,
+    .job5 {
+        margin-left: -11vh;
+        margin-top: -29vh;
+    }
     .ricardo {
         background-size: 63%;
         padding: 200px;
@@ -4311,7 +4319,7 @@ blockquote {
     .joao-caetano {
         background-size: 75%;
         padding: 200px;
-        margin-top: -25vh;
+        margin-top: -46vh;
     }
     .profile-picture {
         width: 380px;

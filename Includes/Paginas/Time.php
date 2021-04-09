@@ -10,6 +10,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">Ricardo</h1>
                         <span>CEO & Dir. Executivo</span>
+                        <i class="tag-job job1 fas fa-briefcase"></i>
                     </div>
                 </li>
                 <!--  -->
@@ -20,6 +21,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">Marcos</h1>
                         <span>CEO & Dir. Criativo</span>
+                        <i class="tag-job job2 fas fa-briefcase"></i>
                     </div>
 
                 </li>
@@ -31,6 +33,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">Erick</h1>
                         <span>Gestor de Tráfego</span>
+                        <i class="tag-job job2 fas fa-chart-line"></i>
                     </div>
 
                 </li>
@@ -42,17 +45,19 @@
                         </div>
                         <h1 class="preto upper margem-titulo">Gabriel Batata</h1>
                         <span>Editor Audiovisual</span>
+                        <i class="tag-job job3 fas fa-headphones"></i>
                     </div>
 
                 </li>
                 <!--  -->
                 <li>
                     <div data-aos="zoom-in-up" data-aos-duration="900" class="nauan">
-                        <div class="profile-picture landscape">
-                            <img src="https://1.bp.blogspot.com/-H3DhuUH7F60/YFAf2BtsL_I/AAAAAAAAG6w/-ly4SbXUveAwweDwES7iwu1P6EePAFzjACLcBGAsYHQ/s0/Nauan.png">
+                        <div class="profile-picture landscape nauan-scape">
+                            <img src="https://1.bp.blogspot.com/-dQ6_mzhqOaI/YG-fJzt5-II/AAAAAAAAG_I/vEnvCICK69QR1NBsv-JwOtqvaxjU5mHTwCLcBGAsYHQ/s0/Nauan.png">
                         </div>
                         <h1 class="preto upper margem-titulo">Nauan</h1>
                         <span>Web Designer</span>
+                        <i class="tag-job job4 fas fa-palette"></i>
                     </div>
                     <!--  -->
                 </li>
@@ -63,6 +68,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">João Caetano</h1>
                         <span>Pesquisador & Redator</span>
+                        <i class="tag-job job5 fas fa-comments"></i>
                     </div>
                     <!--  -->
                 </li>

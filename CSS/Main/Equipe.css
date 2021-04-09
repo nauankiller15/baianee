@@ -34,8 +34,43 @@
 
 /*  */
 
+.tag-job {
+    position: absolute;
+    z-index: 2;
+    font-size: 42px;
+    color: var(--azul);
+    background: var(--preto);
+    border-radius: 50%;
+    padding: 15px;
+}
+
+.job1 {
+    margin-left: -22vh;
+    margin-top: -19vh;
+}
+
+.job2 {
+    margin-left: -18vh;
+    margin-top: -19vh;
+}
+
+.job3 {
+    margin-left: -17vh;
+    margin-top: -30vh;
+}
+
+.job4 {
+    margin-left: -10vh;
+    margin-top: -19vh;
+}
+
+.job5 {
+    margin-left: 2vh;
+    margin-top: -39vh;
+}
+
 .upper {
-    margin-top: 1vh;
+    margin-top: 3vh;
     margin-left: 0vh;
     text-transform: uppercase;
     border-top: 0px solid;
@@ -67,6 +102,10 @@
 
 .joao-scape img {
     left: 52px;
+}
+
+.nauan-scape img {
+    left: 42px;
 }
 
 .ricardo {
