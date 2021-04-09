@@ -33,7 +33,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">Erick</h1>
                         <span>Gestor de Tráfego</span>
-                        <i class="tag-job job2 fas fa-chart-line"></i>
+                        <i class="tag-job job3 fas fa-chart-line"></i>
                     </div>
 
                 </li>
@@ -45,7 +45,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">Gabriel Batata</h1>
                         <span>Editor Audiovisual</span>
-                        <i class="tag-job job3 fas fa-headphones"></i>
+                        <i class="tag-job job4 fas fa-headphones"></i>
                     </div>
 
                 </li>
@@ -57,7 +57,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">Nauan</h1>
                         <span class="margem-hud">Web Designer</span>
-                        <i class="tag-job job4 fas fa-laptop-code"></i>
+                        <i class="tag-job job5 fas fa-laptop-code"></i>
                     </div>
                     <!--  -->
                 </li>
@@ -68,7 +68,7 @@
                         </div>
                         <h1 class="preto upper margem-titulo">João Caetano</h1>
                         <span>Pesquisador & Redator</span>
-                        <i class="tag-job job5 fas fa-comments"></i>
+                        <i class="tag-job job6 fas fa-comments"></i>
                     </div>
                     <!--  -->
                 </li>

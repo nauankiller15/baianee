@@ -4290,13 +4290,17 @@ blockquote {
     }
     .job3 {
         margin-left: -20vh;
-        margin-top: -31vh;
+        margin-top: -21vh;
     }
     .job4 {
+        margin-left: -20vh;
+        margin-top: -31vh;
+    }
+    .job5 {
         margin-left: -19vh;
         margin-top: -21vh;
     }
-    .job5 {
+    .job6 {
         margin-left: -20vh;
         margin-top: -31vh;
     }
@@ -4309,7 +4313,8 @@ blockquote {
     .job2,
     .job3,
     .job4,
-    .job5 {
+    .job5,
+    .job6 {
         margin-left: -10vh;
         margin-top: -29vh;
     }
@@ -4398,15 +4403,21 @@ blockquote {
 @media screen and (max-width:375px) {
     .job1,
     .job2,
-    .job4 {
+    .job3 {
         margin-left: -25vh;
         margin-top: -32vh;
     }
-    .job3,
-    .job5 {
+    .job4,
+    .job6 {
         margin-left: -25vh;
         margin-top: -42vh;
     }
+    .job5 {
+        margin-left: -25vh;
+        margin-top: -33vh;
+    }
+    /*  */
+    /*  */
     .depoimento-hud span {
         border-bottom: 6px solid;
         padding: 3px;

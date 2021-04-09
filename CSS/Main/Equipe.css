@@ -51,21 +51,26 @@
 }
 
 .job2 {
-    margin-left: 2vh;
+    margin-left: 1vh;
     margin-top: -27vh;
 }
 
 .job3 {
+    margin-left: -18vh;
+    margin-top: -19vh;
+}
+
+.job4 {
     margin-left: -17vh;
     margin-top: -30vh;
 }
 
-.job4 {
+.job5 {
     margin-left: -14vh;
     margin-top: -19vh;
 }
 
-.job5 {
+.job6 {
     margin-left: 2vh;
     margin-top: -39vh;
 }
