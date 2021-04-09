@@ -56,7 +56,7 @@
                             <img src="https://1.bp.blogspot.com/-dQ6_mzhqOaI/YG-fJzt5-II/AAAAAAAAG_I/vEnvCICK69QR1NBsv-JwOtqvaxjU5mHTwCLcBGAsYHQ/s0/Nauan.png">
                         </div>
                         <h1 class="preto upper margem-titulo">Nauan</h1>
-                        <span>Web Designer</span>
+                        <span class="margem-hud">Web Designer</span>
                         <i class="tag-job job4 fas fa-laptop-code"></i>
                     </div>
                     <!--  -->

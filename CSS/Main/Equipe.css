@@ -61,7 +61,7 @@
 }
 
 .job4 {
-    margin-left: -10vh;
+    margin-left: -14vh;
     margin-top: -19vh;
 }
 
@@ -109,6 +109,10 @@
     left: 42px;
 }
 
+.margem-hud {
+    margin-left: 4vh;
+}
+
 .ricardo {
     background-size: 42%;
     padding: 150px;
@@ -126,13 +130,13 @@
 .erick {
     background-size: 52%;
     padding: 150px;
-    margin-top: -15vh;
+    margin-top: -20vh;
 }
 
 .gabriel-batata {
     background-size: 42%;
     padding: 150px;
-    margin-top: -15vh;
+    margin-top: -20vh;
 }
 
 .nauan {
