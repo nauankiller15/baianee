@@ -4315,8 +4315,8 @@ blockquote {
     .job4,
     .job5,
     .job6 {
-        margin-left: -10vh;
-        margin-top: -29vh;
+        margin-left: 12vh;
+        margin-top: -13vh;
     }
     .ricardo {
         background-size: 63%;
@@ -4403,18 +4403,12 @@ blockquote {
 @media screen and (max-width:375px) {
     .job1,
     .job2,
-    .job3 {
-        margin-left: -25vh;
-        margin-top: -32vh;
-    }
+    .job3,
     .job4,
+    .job5,
     .job6 {
-        margin-left: -25vh;
-        margin-top: -42vh;
-    }
-    .job5 {
-        margin-left: -25vh;
-        margin-top: -33vh;
+        margin-left: 9vh;
+        margin-top: -14vh;
     }
     /*  */
     /*  */
