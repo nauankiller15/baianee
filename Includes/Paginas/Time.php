@@ -9,7 +9,7 @@
                             <img src="https://1.bp.blogspot.com/-RzqmEF2v1N0/YG-0abU-BCI/AAAAAAAAG_w/Sj3an4jYWF4wAnOsr8E6AS_LoLXGF74IACLcBGAsYHQ/s0/Ricardo.png">
                         </div>
                         <h1 class="preto upper margem-titulo">Ricardo</h1>
-                        <span>CEO & Dir. Executivo</span>
+                        <span>CEO & Diretor Executivo</span>
                         <i class="tag-job job1 fas fa-briefcase"></i>
                     </div>
                 </li>
@@ -20,7 +20,7 @@
                             <img src="https://1.bp.blogspot.com/-B6A6yRd-fgE/YG5Xqhmv6tI/AAAAAAAAG-A/2o4_wu0GDC0VFQO8ln4Y9YMFPEN2CqNeACLcBGAsYHQ/s0/Marcos.png">
                         </div>
                         <h1 class="preto upper margem-titulo">Marcos</h1>
-                        <span>CEO & Dir. Criativo</span>
+                        <span>CEO & Diretor Criativo</span>
                         <i class="tag-job job2 fas fa-briefcase"></i>
                     </div>
 
