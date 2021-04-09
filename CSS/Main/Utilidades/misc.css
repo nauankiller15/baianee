@@ -2550,12 +2550,12 @@ blockquote {
 .section.form {
     display: -webkit-box;
     display: -webkit-flex;
-    display: -ms-flexbox
+    display: -ms-flexbox;
 }
 
 .step {
     margin-right: 60px;
-    margin-bottom: 25px
+    margin-bottom: 25px;
 }
 
 .step.last {
@@ -2569,9 +2569,9 @@ blockquote {
     right: 0;
     bottom: 0;
     height: 100%;
-    opacity: .25;
-    -webkit-filter: grayscale(70%);
-    filter: grayscale(70%)
+    opacity: .39;
+    -webkit-filter: grayscale(75%);
+    filter: grayscale(75%)
 }
 
 .style-guide-banner-holder {
@@ -2651,10 +2651,10 @@ blockquote {
 }
 
 .section-steps {
-    background-image: url(https://1.bp.blogspot.com/-O-fdclb9NeE/YE0WA00m5TI/AAAAAAAAG1M/c3xV_ee5lwMxaPoJVvyxni7ChVTSwAWaACLcBGAsYHQ/s0/arestas%2Be%2Bshapes.png), url(https://1.bp.blogspot.com/-4Vz6lYao22M/YE0jaytvt8I/AAAAAAAAG1c/WS9HFbV_6bwB4K1m6J2OYunu_u0ShC8JgCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes.png);
-    background-position: 100% 0, 0 11%;
+    background-image: url(https://1.bp.blogspot.com/-O-fdclb9NeE/YE0WA00m5TI/AAAAAAAAG1M/c3xV_ee5lwMxaPoJVvyxni7ChVTSwAWaACLcBGAsYHQ/s0/arestas%2Be%2Bshapes.png), url(https://1.bp.blogspot.com/-4Vz6lYao22M/YE0jaytvt8I/AAAAAAAAG1c/WS9HFbV_6bwB4K1m6J2OYunu_u0ShC8JgCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes.png), url(https://1.bp.blogspot.com/-C2e6qCTChOI/YG-p8YOdAKI/AAAAAAAAG_o/M1zeII-69PkIiJodmAFXj7D0-s_MUiVgQCLcBGAsYHQ/s0/arestas-footer.png);
+    background-position: 100% 0, 0 11%, 50% 104%;
     background-size: auto, auto;
-    background-repeat: no-repeat, no-repeat;
+    background-repeat: no-repeat, no-repeat, no-repeat;
     overflow: hidden;
 }
 
@@ -2663,10 +2663,11 @@ blockquote {
 }
 
 .sticky-heading {
-    position: -webkit-sticky;
     position: sticky;
     top: 200px;
-    margin-bottom: 180px
+    padding-left: 25px;
+    padding-top: 2px;
+    background: #101010;
 }
 
 ._3d-card-wrapper,
