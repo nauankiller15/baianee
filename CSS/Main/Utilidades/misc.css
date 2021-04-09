@@ -4374,6 +4374,17 @@ blockquote {
 }
 
 @media screen and (max-width:375px) {
+    .job1,
+    .job2,
+    .job4 {
+        margin-left: -25vh;
+        margin-top: -32vh;
+    }
+    .job3,
+    .job5 {
+        margin-left: -25vh;
+        margin-top: -42vh;
+    }
     .upper {
         margin-top: 6vh;
         border-top: 11px solid;
