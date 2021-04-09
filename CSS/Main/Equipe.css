@@ -97,6 +97,7 @@
     border: 9px solid var(--preto);
     overflow: hidden;
     background: var(--azul);
+    transition: 0.5s;
 }
 
 .landscape img {
