@@ -4273,11 +4273,32 @@ blockquote {
         margin-left: 0vh;
     }
     .upper {
-        margin-top: -9vh;
+        margin-top: 4vh;
         text-transform: uppercase;
-        border-top: 11px solid;
         width: 35vh;
         padding: 6px;
+    }
+    /*  */
+    /*  */
+    .job1 {
+        margin-left: -20vh;
+        margin-top: -21vh;
+    }
+    .job2 {
+        margin-left: -20vh;
+        margin-top: -21vh;
+    }
+    .job3 {
+        margin-left: -20vh;
+        margin-top: -31vh;
+    }
+    .job4 {
+        margin-left: -19vh;
+        margin-top: -21vh;
+    }
+    .job5 {
+        margin-left: -20vh;
+        margin-top: -31vh;
     }
 }
 
@@ -4289,7 +4310,7 @@ blockquote {
     .job3,
     .job4,
     .job5 {
-        margin-left: -11vh;
+        margin-left: -10vh;
         margin-top: -29vh;
     }
     .ricardo {
@@ -4352,12 +4373,12 @@ blockquote {
         line-height: 64px;
         display: inline-block;
         width: 358px;
-        margin-left: -24vh;
+        margin-left: -26vh;
         text-shadow: 0 1px 0 var(--branco), 0 0 10px var(--azul);
         box-shadow: 0 1px 0 var(--branco);
     }
     .upper {
-        margin-left: -24vh;
+        margin-left: -26vh;
         margin-top: 2vh;
         border-top: 11px solid;
         width: 100vh;
@@ -4385,6 +4406,18 @@ blockquote {
     .job5 {
         margin-left: -25vh;
         margin-top: -42vh;
+    }
+    .depoimento-hud span {
+        border-bottom: 6px solid;
+        padding: 3px;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 64px;
+        display: inline-block;
+        width: 358px;
+        margin-left: -25vh;
+        text-shadow: 0 1px 0 var(--branco), 0 0 10px var(--azul);
+        box-shadow: 0 1px 0 var(--branco);
     }
     .upper {
         margin-top: 6vh;
