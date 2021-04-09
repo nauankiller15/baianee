@@ -131,24 +131,28 @@
     background-size: 52%;
     padding: 150px;
     margin-top: -22vh;
+    animation: animMarcos 1.2s ease-in-out;
 }
 
 .gabriel-batata {
     background-size: 42%;
     padding: 150px;
     margin-top: -22vh;
+    animation: animMarcos 1.8s ease-in-out;
 }
 
 .nauan {
     background-size: 38%;
     padding: 150px;
     margin-top: -32vh;
+    animation: animMarcos 1.2s ease-in-out;
 }
 
 .joao-caetano {
     background-size: 38%;
     padding: 150px;
     margin-top: -25vh;
+    animation: animMarcos 1.8s ease-in-out;
 }
 
 
