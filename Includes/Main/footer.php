@@ -55,6 +55,6 @@
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
 <script>
-	AOS.init();
 	MenuAtivo();
+	galleryResp();
 </script>
