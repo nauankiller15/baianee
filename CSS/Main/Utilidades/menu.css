@@ -141,7 +141,6 @@
                right: 0;
            }
            nav .menuItems {
-               display: block;
                position: absolute;
                right: -40px;
                list-style: none;

@@ -19,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\anims.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\cores.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Equipe.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\animate-scroll.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\loader.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\menu.mobile.css">

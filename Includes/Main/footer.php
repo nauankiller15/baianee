@@ -40,6 +40,8 @@
 <script src="JS/typed.js"></script>
 <script src="JS/responsiveGallery.js"></script>
 
+<script src="JS/animate-scroll.js"></script>
+
 <!-- menu animations -->
 <script src="JS/checkbox-botao.js"></script>
 <script src="JS/to.top.js"></script>

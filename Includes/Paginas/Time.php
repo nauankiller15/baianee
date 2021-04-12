@@ -4,7 +4,7 @@
         <div class="content-width-depoimentos">
             <div class="depoimento-hud">
                 <li>
-                    <div class="ricardo">
+                    <div class="ricardo ">
                         <div class="profile-picture landscape">
                             <img src="https://1.bp.blogspot.com/-RzqmEF2v1N0/YG-0abU-BCI/AAAAAAAAG_w/Sj3an4jYWF4wAnOsr8E6AS_LoLXGF74IACLcBGAsYHQ/s0/Ricardo.png">
                         </div>
@@ -15,7 +15,7 @@
                 </li>
                 <!--  -->
                 <li>
-                    <div data-aos="fade-right" data-aos-duration="900" class="marcos">
+                    <div class="marcos js-scroll slide-right-mobile">
                         <div class="profile-picture landscape">
                             <img src="https://1.bp.blogspot.com/-B6A6yRd-fgE/YG5Xqhmv6tI/AAAAAAAAG-A/2o4_wu0GDC0VFQO8ln4Y9YMFPEN2CqNeACLcBGAsYHQ/s0/Marcos.png">
                         </div>
@@ -27,7 +27,7 @@
                 </li>
                 <!--  -->
                 <li>
-                    <div data-aos="fade-left" data-aos-duration="900" class="erick">
+                    <div  class="erick js-scroll fade-in-bottom">
                         <div class="profile-picture landscape">
                             <img src="https://1.bp.blogspot.com/-3nJA7mn6EEE/YFAflYQ5A3I/AAAAAAAAG6g/uacxEsyUnxMk2BpdxO82VGazR2DToGP0QCLcBGAsYHQ/s0/Erick.png">
                         </div>
@@ -39,7 +39,7 @@
                 </li>
                 <!--  -->
                 <li>
-                    <div data-aos="fade-right" data-aos-duration="900" class="gabriel-batata">
+                    <div class="gabriel-batata js-scroll fade-in-bottom">
                         <div class="profile-picture landscape">
                             <img src="https://1.bp.blogspot.com/-NJuOUKLkBsg/YG-3ky4GGTI/AAAAAAAAHAI/r6ifVYdVS9MxTxi9fJAb7hq6RkZxfPkiACLcBGAsYHQ/s0/Gabriel%2BBatata.png">
                         </div>
@@ -51,7 +51,7 @@
                 </li>
                 <!--  -->
                 <li>
-                    <div data-aos="zoom-in-up" data-aos-duration="900" class="nauan">
+                    <div class="nauan js-scroll fade-in-bottom">
                         <div class="profile-picture landscape nauan-scape">
                             <img src="https://1.bp.blogspot.com/-dQ6_mzhqOaI/YG-fJzt5-II/AAAAAAAAG_I/vEnvCICK69QR1NBsv-JwOtqvaxjU5mHTwCLcBGAsYHQ/s0/Nauan.png">
                         </div>
@@ -62,7 +62,7 @@
                     <!--  -->
                 </li>
                 <li>
-                    <div data-aos="zoom-in-up" data-aos-duration="900" class="joao-caetano">
+                    <div class="joao-caetano js-scroll fade-in-bottom">
                         <div class="profile-picture landscape joao-scape">
                             <img src="https://1.bp.blogspot.com/-YsRBcYqMvfc/YG-QFpnGdbI/AAAAAAAAG-Y/BEwr2KqXkU0wCr5Dg-zJTsJxD4uJKaa7gCLcBGAsYHQ/s0/Jo%25C3%25A3o%2BCaetano.png">
                         </div>
