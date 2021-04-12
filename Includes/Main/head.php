@@ -19,15 +19,14 @@
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\anims.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\cores.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Equipe.css">
-    <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\animate-scroll.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\loader.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\menu.mobile.css">
     <!-- responsiveGallery -->
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\responsiveGallery.css">
     <!--  -->
-    <!-- AOS MASTER -->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- ANIMATE ON SCROLL -->
+    <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\animate-scroll.css">
     <!--  -->
     <link rel="icon" href="https://1.bp.blogspot.com/--rVu94FrjTw/YE1lz5boezI/AAAAAAAAG24/z1F36EtHsjMTHqHM5xJpRs0vNcDUDYr3gCLcBGAsYHQ/s0/favicon.ico" type="image/ico">
 
