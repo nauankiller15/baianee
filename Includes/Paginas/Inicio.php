@@ -45,7 +45,7 @@
                     <h3 class="sticky-heading">Serviços</span></h3>
                 </div>
             </div>
-            <div class="js-scroll fade-in-bottom">
+            <div class="js-scroll slide-left">
                 <div class="content-half">
                     <div class="step" style="opacity: 1;">
                         <div class="steps-icon"><img src="https://1.bp.blogspot.com/-ava_qP119Gc/YE1GPn2g1JI/AAAAAAAAG2I/iax8QLR-H3wGtTI1ujAOz92QzMIEFAoZwCLcBGAsYHQ/s320/laptop.png" height="70" alt=""></div>
@@ -115,7 +115,7 @@
             </div>
         </div>
     </div>
-    <div id="Depoimentos" class="js-scroll fade-in-bottom">
+    <div id="Depoimentos" class="js-scroll slide-left">
         <div class="friends-section">
             <div class="container-small">
                 <h3 style="opacity: 1;" class="margem-depo center-width">Depoimentos</h3>

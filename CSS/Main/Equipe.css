@@ -130,7 +130,7 @@
     background-size: 48%;
     padding: 150px;
     margin-top: -15vh;
-    animation: animMarcos 1.8s ease-in-out;
+    animation: animMarcos 1.8s ease-in-out !important;
 }
 
 .erick {

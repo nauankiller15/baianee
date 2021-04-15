@@ -3665,12 +3665,16 @@ blockquote {
     /*  */
 }
 
+.scrolled.fade-in-bottom-mobile {
+    animation: none;
+}
+
 
 /* RESPONSIVO MOBILE CSS */
 
 @media screen and (max-width:991px) {
-    .scrolled.slide-right-mobile {
-        animation: slide-in-right 1s ease-in-out both;
+    .scrolled.fade-in-bottom-mobile {
+        animation: fade-in-bottom 1s ease-in-out both;
     }
     .info-left,
     .info-right,
