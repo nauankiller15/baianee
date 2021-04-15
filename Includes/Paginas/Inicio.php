@@ -118,7 +118,7 @@
     <div id="Depoimentos" class="js-scroll fade-in-bottom">
         <div class="friends-section">
             <div class="container-small">
-                <h3 style="opacity: 1;" class="margem-depo center-width js-scroll slide-left">Depoimentos</h3>
+                <h3 style="opacity: 1;" class="margem-depo center-width">Depoimentos</h3>
                 <div class="w-gallery">
                     <section id="responsiveGallery-container" class="responsiveGallery-container">
                         <a class="responsiveGallery-btn responsiveGallery-btn_prev" href="javascript:void(0);"></a>
