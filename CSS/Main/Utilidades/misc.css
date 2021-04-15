@@ -2508,8 +2508,8 @@ blockquote {
     max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 270px;
-    padding-bottom: 250px;
+    padding-top: 175px;
+    padding-bottom: 235px;
     grid-row-gap: 0;
     text-align: center;
 }
