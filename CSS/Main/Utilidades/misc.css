@@ -2745,13 +2745,6 @@ blockquote {
     font-size: 23px;
 }
 
-.yellow-separator {
-    width: 76px;
-    height: 2px;
-    margin-bottom: 60px;
-    background-color: #fbbb2e
-}
-
 ._3d-content {
     top: 0;
     display: flex;

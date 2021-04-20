@@ -118,7 +118,6 @@ $('#inicioAbrirResponsv').on('click', function() {
     $("#inicio").fadeIn('600');
     $('#contato').fadeOut('600');
     $('#time').fadeOut("700");
-    $('#contato').fadeOut('600');
     $('#sobre').fadeOut('600');
 
 })
