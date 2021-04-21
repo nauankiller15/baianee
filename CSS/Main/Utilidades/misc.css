@@ -4359,8 +4359,9 @@ blockquote {
     }
     /*  */
     /*  */
-    .section-depo {
-        margin-top: 14vh;
+    .menutop {
+        width: 100vh;
+        height: 100px;
     }
     .centro-depo {
         padding: 9px;
@@ -4431,8 +4432,9 @@ blockquote {
         padding: 6px;
         margin-left: -24vh;
     }
-    .section-depo {
-        margin-top: 16vh;
+    .menutop {
+        width: 100vh;
+        height: 100px;
     }
     .ricardo {
         background-size: 63%;
