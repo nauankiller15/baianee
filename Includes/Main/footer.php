@@ -56,5 +56,4 @@
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
 <script>
 	MenuAtivo();
-	galleryResp();
 </script>

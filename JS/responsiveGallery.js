@@ -1,12 +1,11 @@
-function galleryResp() {
+$(function() {
     $('.responsiveGallery-wrapper').responsiveGallery({
         animatDuration: 400, //动画时长 单位 ms
         $btn_prev: $('.responsiveGallery-btn_prev'),
         $btn_next: $('.responsiveGallery-btn_next')
     });
-};
+});
 
-;
 (function($) {
     $.fn.responsiveGallery = function(option) {
         var opts = $.extend({}, $.fn.responsiveGallery.defaults, option), //配置选项
