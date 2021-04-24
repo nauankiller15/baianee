@@ -24,7 +24,7 @@
     <!-- responsiveGallery -->
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\responsiveGallery.css">
     <!--  -->
-    <!-- ANIMATE ON SCROLL -->
+    <!-- ANIMATE ON SCROLLER -->
     <link rel="stylesheet" type="text/css" href="CSS\Main\Utilidades\animate-scroll.css">
     <!--  -->
     <link rel="icon" href="https://1.bp.blogspot.com/--rVu94FrjTw/YE1lz5boezI/AAAAAAAAG24/z1F36EtHsjMTHqHM5xJpRs0vNcDUDYr3gCLcBGAsYHQ/s0/favicon.ico" type="image/ico">
