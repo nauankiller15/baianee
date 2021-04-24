@@ -3758,8 +3758,8 @@ blockquote {
         width: 100%;
     }
     .responsivo-depoimentos {
-        width: 200px;
-        height: 250px;
+        width: 250px;
+        height: 310px;
     }
     .contato-mobile {
         display: block;
@@ -3818,12 +3818,13 @@ blockquote {
         font-weight: 400;
     }
     .depoimentos-caixa ul {
-        padding-top: 120px;
+        padding-top: 190px;
         font-family: 'Satisfy', cursive;
-        font-size: 41px;
+        font-size: 40px;
         color: #00aeae;
         text-shadow: 0px 6px 7px black;
         line-height: 45px;
+        padding-left: 0px;
     }
     .container-banner {
         width: 100%;

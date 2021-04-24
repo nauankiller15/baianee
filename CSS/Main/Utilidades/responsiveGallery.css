@@ -11,8 +11,8 @@
     top: 0;
     z-index: 3;
     display: block;
-    width: 5%;
-    height: 100%;
+    width: 6%;
+    height: 38vh;
 }
 
 .responsiveGallery-btn_prev {
@@ -72,7 +72,7 @@
 
 @media (max-width: 560px) {
     .responsiveGallery-wrapper {
-        width: 60%;
+        width: 69%;
     }
     .responsiveGallery-item {
         width: 86%;
