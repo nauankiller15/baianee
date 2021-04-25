@@ -3677,7 +3677,7 @@ blockquote {
 @media screen and (max-width:991px) {
     
 .js-scroll-mobile {
-    opacity: 0;
+    opacity: 1;
     transition: opacity 500ms;
 }
 
