@@ -3662,10 +3662,28 @@ blockquote {
     animation: none;
 }
 
+.js-scroll-mobile {
+    opacity: 1;
+    transition: opacity 500ms;
+}
+
+.js-scroll.scrolled-mobile {
+    opacity: 1;
+}
+
 
 /* RESPONSIVO MOBILE CSS */
 
 @media screen and (max-width:991px) {
+    
+.js-scroll-mobile {
+    opacity: 0;
+    transition: opacity 500ms;
+}
+
+.js-scroll.scrolled-mobile {
+    opacity: 1;
+}
     .scrolled.fade-in-bottom-mobile {
         animation: fade-in-bottom 1s ease-in-out both;
     }

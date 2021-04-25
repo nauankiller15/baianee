@@ -18,7 +18,7 @@
                     </li>
                     <!--  -->
                     <li>
-                        <div class="marcos js-scroll fade-in-bottom-mobile">
+                        <div class="marcos js-scroll-mobile fade-in-bottom-mobile">
                             <div class="profile-picture landscape">
                                 <img src="https://1.bp.blogspot.com/-B6A6yRd-fgE/YG5Xqhmv6tI/AAAAAAAAG-A/2o4_wu0GDC0VFQO8ln4Y9YMFPEN2CqNeACLcBGAsYHQ/s0/Marcos.png">
                             </div>
