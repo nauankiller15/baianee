@@ -151,7 +151,7 @@
                     </section>
                 </div>
                 <div class="depoimentos-caixa js-scroll slide-right">
-                    <ul>Nós Agradeçemos sua Preferência</ul>
+                    <ul>Nós Agradeçemos a sua Preferência</ul>
                 </div>
             </div>
         </div>
